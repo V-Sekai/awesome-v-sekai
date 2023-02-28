@@ -32,6 +32,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 - [lowpoly-chmaker](https://github.com/fernandolv33/lowpoly-chmaker)
 - [Easy Charts](https://github.com/fenix-hub/godot-engine.easy-charts)
+- [Simple Explosion VFX](https://github.com/drcd1/GodotSimpleExplosionVFX)
 
 ## Modules
 
