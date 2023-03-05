@@ -27,6 +27,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - https://github.com/V-Sekai/godot-vrm 
   - [VRM Overview](https://github.com/fire/awesome-godot-procedural-generation/files/10690951/VRM.Overview.pdf)
 - [Arrow](https://github.com/mhgolkar/Arrow)
+- [Point cloud multistroke recognizer](https://github.com/V-Sekai/godot-point-cloud-multistroke-recognizer)
 
 #### Godot 3.0
 
