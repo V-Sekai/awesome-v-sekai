@@ -33,6 +33,10 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 - [Task Goal Planner](https://github.com/V-Sekai/godot-task-goal-planner)
 - [Verlet Rope Simulation](https://github.com/V-Sekai/godot-verlet-rope)
 
+#### Stale Godot 4.0 
+
+- [Godot Sentry Native](https://github.com/V-Sekai/godot-sentry-native)
+
 ## Modules
 
 _Stuff integrated into Godot core (C++)._
