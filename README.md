@@ -47,6 +47,7 @@ _Stuff integrated into Godot core (C++)._
 - [Godot libsql](https://github.com/V-Sekai/godot-libsql)
 - [Fast Subdivision with opensubdiv](https://github.com/V-Sekai/godot-subdiv)
 - [Inverse kinematics system solver for multi-chain skeletons and with constraints](https://github.com/V-Sekai/many_bone_ik)
+- [Humanoid Inverse kinematics Rig for Avatars](https://github.com/V-Sekai/renik)
 
 #### Stale Godot 4.0 Modules
 
