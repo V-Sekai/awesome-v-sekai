@@ -9,6 +9,7 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 - [Plugins and Scripts](#plugins-and-scripts)
 - [Modules](#modules)
 - [Websites](#websites)
+- [Applications](#applications)
 
 ## Plugins and Scripts
 
@@ -31,3 +32,8 @@ _Stuff integrated into Godot core (C++)._
 ## Websites
 
 - [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/)
+
+## Applications
+
+- [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
+- [V-Sekai Uro Online Services](https://github.com/V-Sekai/uro/issues/new/choose)
