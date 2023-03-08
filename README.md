@@ -6,14 +6,9 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 
 ## Contents
 
-- [Tutorials](#tutorials)
 - [Plugins and Scripts](#plugins-and-scripts)
 - [Modules](#modules)
 - [Websites](#websites)
-
-## Tutorials
-
-- [Godot 4 glTF Runtime Import](https://github.com/godotengine/godot-docs/issues/6385)
 
 ## Plugins and Scripts
 
