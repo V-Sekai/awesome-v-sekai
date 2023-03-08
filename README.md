@@ -10,6 +10,7 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 - [Modules](#modules)
 - [Websites](#websites)
 - [Applications](#applications)
+- [Tools](#tools)
 
 ## Artwork
 
@@ -41,3 +42,7 @@ _Stuff integrated into Godot core (C++)._
 
 - [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
 - [V-Sekai Uro Online Services](https://github.com/V-Sekai/uro/issues/new/choose)
+
+## Tools
+
+- [vsekai-blender-game-tools](https://github.com/V-Sekai/vsekai-blender-game-tools)
