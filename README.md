@@ -11,6 +11,10 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 - [Websites](#websites)
 - [Applications](#applications)
 
+## Artwork
+
+- [Blender Art Blue Tin Fox Models](https://github.com/V-Sekai/blender-art-blue-tin-fox-models)
+
 ## Plugins and Scripts
 
 _Scripts that let you do new stuff, or enhance Godot functionality._
