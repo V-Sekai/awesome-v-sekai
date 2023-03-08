@@ -36,6 +36,7 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 #### Stale Godot 4.0 
 
 - [Godot Sentry Native for Crash Reporting and Application Performance Monitoring](https://github.com/V-Sekai/godot-sentry-native)
+- [Seurat is a system for image-based scene simplification for VR](https://github.com/V-Sekai/seurat)
 
 ## Modules
 
