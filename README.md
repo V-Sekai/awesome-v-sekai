@@ -58,3 +58,4 @@ _Stuff integrated into Godot core (C++)._
 
 - [Godot Engine](https://godotengine.org/teams)
 - [Open Metaverse Interoperability Group](https://omigroup.org)
+- [Khronos](https://www.khronos.org/)
