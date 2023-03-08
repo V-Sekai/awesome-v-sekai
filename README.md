@@ -23,7 +23,7 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 #### Godot 4.0
 
 - [Godot VRM](https://github.com/V-Sekai/godot-vrm)
-  - [VRM Overview](https://github.com/fire/awesome-godot-procedural-generation/files/10690951/VRM.Overview.pdf)
+  - [VRM Overview](https://github.com/v-sekai/awesome-v-sekai/files/10690951/VRM.Overview.pdf)
 - [Point Cloud Multistroke Recognizer](https://github.com/V-Sekai/godot-point-cloud-multistroke-recognizer)
 
 ## Modules
@@ -33,6 +33,7 @@ _Stuff integrated into Godot core (C++)._
 #### Godot 4.0
 
 - [Godot Speech](https://github.com/v-sekai/godot_speech)
+- [](https://github.com/V-Sekai/godot-libsql)
 
 ## Websites
 
