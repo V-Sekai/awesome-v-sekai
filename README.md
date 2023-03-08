@@ -58,11 +58,12 @@ _Stuff integrated into Godot core (C++)._
 
 - [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
 - [V-Sekai Uro Online Services](https://github.com/V-Sekai/uro/issues/new/choose)
+- [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
 
 ## Tools
 
 - [V-Sekai Blender Game Tools](https://github.com/V-Sekai/vsekai-blender-game-tools)
-- [FBX2glTF](https://github.com/godotengine/FBX2glTF)
+- [FBX2glTF FBX to GLTF Converter](https://github.com/godotengine/FBX2glTF)
 
 ## Organizations
 
