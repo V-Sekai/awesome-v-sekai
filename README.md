@@ -25,7 +25,7 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 - [Godot Import VRM for Portable Avatars](https://github.com/V-Sekai/godot-vrm)
   - [VRM for Portable Avatars Overview](https://github.com/fire/awesome-godot-procedural-generation/files/10690951/VRM.Overview.pdf)
 - [Point Cloud Multistroke Recognizer](https://github.com/V-Sekai/godot-point-cloud-multistroke-recognizer)
-- [XR Tunneling shade](https://github.com/V-Sekai/godot_xr_vignette)
+- [XR Tunneling shader](https://github.com/V-Sekai/godot_xr_vignette)
 - [Godot Import for .unitypackage and other assets](https://github.com/V-Sekai/unidot_importer)
 - [Godot Splerger to Split and Merge Godot Engine Scenes](https://github.com/V-Sekai/godot-splerger)
 
