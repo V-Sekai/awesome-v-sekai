@@ -30,6 +30,7 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 - [XR Tunneling shader](https://github.com/V-Sekai/godot_xr_vignette)
 - [Godot Import for .unitypackage and other assets](https://github.com/V-Sekai/unidot_importer)
 - [Godot Splerger to Split and Merge Godot Engine Scenes](https://github.com/V-Sekai/godot-splerger)
+- [Task Goal Planner](https://github.com/V-Sekai/godot-task-goal-planner)
 
 ## Modules
 
