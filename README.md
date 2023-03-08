@@ -38,6 +38,7 @@ _Stuff integrated into Godot core (C++)._
 
 - [Godot Speech](https://github.com/v-sekai/godot_speech)
 - [Godot libsql](https://github.com/V-Sekai/godot-libsql)
+- [Fast Subdivision with opensubdiv](https://github.com/V-Sekai/godot-subdiv)
 
 ## Websites
 
