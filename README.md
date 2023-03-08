@@ -11,6 +11,7 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 - [Websites](#websites)
 - [Applications](#applications)
 - [Tools](#tools)
+- [Organizations](#organizations)
 
 ## Artwork
 
@@ -52,3 +53,8 @@ _Stuff integrated into Godot core (C++)._
 
 - [V-Sekai Blender Game Tools](https://github.com/V-Sekai/vsekai-blender-game-tools)
 - [FBX2glTF](https://github.com/godotengine/FBX2glTF)
+
+## Organizations
+
+- [Godot Engine](https://godotengine.org/teams)
+- [Open Metaverse Interoperability Group](https://omigroup.org)
