@@ -45,6 +45,7 @@ _Stuff integrated into Godot core (C++)._
 #### Stale Godot 4.0 Modules
 
 - [Godot Commonmark](https://github.com/V-Sekai/godot-cmark)
+- [Godot PMX for Miku Miku Dance Model Importing](https://github.com/V-Sekai/godot-pmx)
 
 ## Websites
 
