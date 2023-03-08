@@ -16,6 +16,7 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 ## Artwork
 
 - [Blender Art Blue Tin Fox Models](https://github.com/V-Sekai/blender-art-blue-tin-fox-models)
+- [V-Sekai Fire Artwork & Tools](https://github.com/v-sekai-fire)
 
 ## Plugins and Scripts
 
