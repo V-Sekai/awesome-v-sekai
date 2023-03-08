@@ -48,5 +48,5 @@ _Stuff integrated into Godot core (C++)._
 
 ## Tools
 
-- [vsekai-blender-game-tools](https://github.com/V-Sekai/vsekai-blender-game-tools)
+- [V-Sekai Blender Game Tools](https://github.com/V-Sekai/vsekai-blender-game-tools)
 - [FBX2glTF](https://github.com/godotengine/FBX2glTF)
