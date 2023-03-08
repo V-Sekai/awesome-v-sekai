@@ -76,6 +76,7 @@ _Stuff integrated into Godot core (C++)._
 - [FBX2glTF FBX to GLTF Converter](https://github.com/godotengine/FBX2glTF)
 - [OpenVR driver for using VR controllers without an HMD](https://github.com/V-Sekai/V-Sekai-faceless)
 - [Differentiable Cloth Simulation](https://github.com/fire/differentiable_cloth)
+- [gltf-extensions](https://github.com/omigroup/gltf-extensions)
 
 ## Organizations
 
