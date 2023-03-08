@@ -37,6 +37,7 @@ _Stuff integrated into Godot core (C++)._
 ## Websites
 
 - [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/)
+- [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/)
 
 ## Applications
 
