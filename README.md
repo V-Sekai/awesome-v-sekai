@@ -50,8 +50,8 @@ _Stuff integrated into Godot core (C++)._
 - [Godot Speech](https://github.com/v-sekai/godot_speech)
 - [Godot libsql](https://github.com/V-Sekai/godot-libsql)
 - [Fast Subdivision with opensubdiv](https://github.com/V-Sekai/godot-subdiv)
-- [Inverse kinematics system solver for multi-chain skeletons and with constraints](https://github.com/V-Sekai/many_bone_ik)
-- [Humanoid Inverse kinematics Rig for Avatars](https://github.com/V-Sekai/renik)
+- [Inverse Kinematics System Solver for Multi-chain Skeletons and with Constraints](https://github.com/V-Sekai/many_bone_ik)
+- [Humanoid Inverse Kinematics Rig for Avatars](https://github.com/V-Sekai/renik)
 - [Lasso Makes the Task of Selecting Objects in VR Easier](https://github.com/V-Sekai/lasso)
 - [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)
 
