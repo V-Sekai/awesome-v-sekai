@@ -56,6 +56,7 @@ _Stuff integrated into Godot core (C++)._
 - [Humanoid Inverse Kinematics Rig for Avatars](https://github.com/V-Sekai/renik)
 - [Lasso Makes the Task of Selecting Objects in VR Easier](https://github.com/V-Sekai/lasso)
 - [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)
+- [Hydrp](https://github.com/godot-extended-libraries/hydro)
 
 #### Stale Godot 4.0 Modules
 
