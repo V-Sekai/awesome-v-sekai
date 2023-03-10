@@ -74,6 +74,7 @@ _Stuff integrated into Godot core (C++)._
 - [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
 - [V-Sekai Uro Online Services](https://github.com/V-Sekai/uro/issues/new/choose)
 - [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
+- [VSK Model Explorer](https://github.com/V-Sekai/VSK_model_explorer)
 
 ## Tools
 
