@@ -35,12 +35,6 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 - [Task Goal Planner](https://github.com/V-Sekai/godot-task-goal-planner)
 - [Verlet Rope Simulation](https://github.com/V-Sekai/godot-verlet-rope)
 
-#### Stale Godot 4.0 
-
-- [Godot Sentry Native for Crash Reporting and Application Performance Monitoring](https://github.com/V-Sekai/godot-sentry-native)
-- [Seurat is a system for image-based scene simplification for VR](https://github.com/V-Sekai/seurat)
-- [Godot QR Code](https://github.com/V-Sekai/godot-qrcode)
-
 ## Modules
 
 _Stuff integrated into Godot core (C++)._
@@ -57,11 +51,6 @@ _Stuff integrated into Godot core (C++)._
 - [Lasso Makes the Task of Selecting Objects in VR Easier](https://github.com/V-Sekai/lasso)
 - [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)
 - [Hydrp](https://github.com/godot-extended-libraries/hydro)
-
-#### Stale Godot 4.0 Modules
-
-- [Godot Commonmark](https://github.com/V-Sekai/godot-cmark)
-- [Godot PMX for Miku Miku Dance Model Importing](https://github.com/V-Sekai/godot-pmx)
 
 ## Websites
 
