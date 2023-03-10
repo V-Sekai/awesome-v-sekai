@@ -81,6 +81,7 @@ _Stuff integrated into Godot core (C++)._
 - [OpenVR driver for using VR controllers without an HMD](https://github.com/V-Sekai/V-Sekai-faceless)
 - [Differentiable Cloth Simulation](https://github.com/fire/differentiable_cloth)
 - [GLTF Extensions](https://github.com/omigroup/gltf-extensions)
+- [XMP StableDiffusion DataMapper](https://github.com/Zirnworks/XMP-StableDiffusion-DataMapper)
 
 ## Organizations
 
