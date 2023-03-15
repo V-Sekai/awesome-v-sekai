@@ -8,12 +8,18 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 
 ## Contents
 
+- [Websites](#websites)
 - [Plugins and Scripts](#plugins-and-scripts)
 - [Modules](#modules)
-- [Websites](#websites)
 - [Applications](#applications)
 - [Tools](#tools)
 - [Organizations](#organizations)
+
+## Websites
+
+- [V-Sekai Manuals Website](https://github.com/V-Sekai/manuals)
+- [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/)
+- [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/)
 
 ## Artwork
 
@@ -52,12 +58,6 @@ _Stuff integrated into Godot core (C++)._
 - [Lasso Makes the Task of Selecting Objects in VR Easier](https://github.com/V-Sekai/lasso)
 - [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)
 - [Hydrp](https://github.com/godot-extended-libraries/hydro)
-
-## Websites
-
-- [V-Sekai Manuals Website](https://github.com/V-Sekai/manuals)
-- [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/)
-- [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/)
 
 ## Applications
 
