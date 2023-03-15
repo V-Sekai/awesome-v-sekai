@@ -34,7 +34,7 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 - [Godot Splerger to Split and Merge Godot Engine Scenes](https://github.com/V-Sekai/godot-splerger)
 - [Task Goal Planner](https://github.com/V-Sekai/godot-task-goal-planner)
 - [Verlet Rope Simulation](https://github.com/V-Sekai/godot-verlet-rope)
-- [Godot plugin for in-editor box modelling for gray boxing or prototyping 3d levels.](https://github.com/jarneson/godot-ply)
+- [In-editor box modelling for gray boxing or prototyping 3d levels.](https://github.com/jarneson/godot-ply)
 
 ## Modules
 
