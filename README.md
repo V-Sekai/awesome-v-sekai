@@ -45,7 +45,7 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 
 ## Modules
 
-_Stuff integrated into Godot core (C++)._
+_Modules extend Godot Engine core (C++)._
 
 #### Godot 4.0
 
