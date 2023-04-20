@@ -1,4 +1,4 @@
-# Awesome V-Sekai Social VR Projects
+# Awesome V-Sekai Community Projects
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -41,6 +41,7 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 - [Task Goal Planner](https://github.com/V-Sekai/godot-task-goal-planner)
 - [Verlet Rope Simulation](https://github.com/V-Sekai/godot-verlet-rope)
 - [In-editor box modelling for gray boxing or prototyping 3d levels.](https://github.com/jarneson/godot-ply)
+- [IREE.gd combines the IREE runtime with the Godot game engine, which facilitates the seamless integration of machine learning features into video games](https://github.com/RechieKho/IREE.gd)
 
 ## Modules
 
