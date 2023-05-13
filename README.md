@@ -80,6 +80,7 @@ _Modules extend Godot Engine core (C++)._
 - [Proton Graph](https://github.com/protongraph/protongraph)
 - [Elk: Mastadon client](https://elk.zone)
 - [Libhunt: Shows trending github repositories based on social media links](https://www.libhunt.com)
+- [threadreaderapp: Provides pdf summaries of Twitter threads](https://threadreaderapp.com/)
 
 ## Organizations
 
