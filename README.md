@@ -77,7 +77,7 @@ _Modules extend Godot Engine core (C++)._
 - [GLTF Extensions](https://github.com/omigroup/gltf-extensions)
 - [XMP StableDiffusion DataMapper](https://github.com/Zirnworks/XMP-StableDiffusion-DataMapper)
 - [Proton Graph](https://github.com/protongraph/protongraph)
-- [Elk: Mastadon client](https://elk.zone/m.webtoo.ls/public/local)
+- [Elk: Mastadon client](https://elk.zone)
 
 ## Organizations
 
