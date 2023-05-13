@@ -59,7 +59,7 @@ _Modules extend Godot Engine core (C++)._
 - [Lasso Makes the Task of Selecting Objects in VR Easier](https://github.com/V-Sekai/lasso)
 - [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)
 - [Hydro](https://github.com/godot-extended-libraries/hydro)
-- [WASM](https://github.com/ashtonmeuser/godot-wasm)
+- [ashtonmeuser/godot-wasm](https://github.com/ashtonmeuser/godot-wasm)
 
 ## Applications
 
