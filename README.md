@@ -79,6 +79,7 @@ _Modules extend Godot Engine core (C++)._
 - [XMP StableDiffusion DataMapper](https://github.com/Zirnworks/XMP-StableDiffusion-DataMapper)
 - [Proton Graph](https://github.com/protongraph/protongraph)
 - [Elk: Mastadon client](https://elk.zone)
+- [Libhunt: Shows trending github repositories based on social media links](https://www.libhunt.com)
 
 ## Organizations
 
@@ -86,3 +87,4 @@ _Modules extend Godot Engine core (C++)._
 - [Open Metaverse Interoperability Group](https://omigroup.org)
 - [Khronos](https://www.khronos.org/)
 - [Polypixel: for low polygon art](https://github.com/recatek/polypixel-wiki/wiki)
+- 
