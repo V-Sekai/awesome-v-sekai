@@ -83,3 +83,4 @@ _Modules extend Godot Engine core (C++)._
 - [Godot Engine](https://godotengine.org/teams)
 - [Open Metaverse Interoperability Group](https://omigroup.org)
 - [Khronos](https://www.khronos.org/)
+- [Polypixel: for low polygon art](https://github.com/recatek/polypixel-wiki/wiki)
