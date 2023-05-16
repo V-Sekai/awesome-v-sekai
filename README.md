@@ -50,8 +50,6 @@ _Modules extend Godot Engine core (C++)._
 
 #### Godot 4.0
 
-- [V-Sekai Active Godot Engine Modules](https://github.com/V-Sekai/godot-modules-groups)
-
 - [Godot Speech](https://github.com/v-sekai/godot_speech)
 - [Godot libsql](https://github.com/V-Sekai/godot-libsql)
 - [Fast Subdivision with opensubdiv](https://github.com/V-Sekai/godot-subdiv)
