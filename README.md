@@ -83,6 +83,7 @@ _Modules extend Godot Engine core (C++)._
 - [Libhunt: Shows trending github repositories based on social media links](https://www.libhunt.com)
 - [Threadreaderapp: Provides pdf summaries of Twitter threads](https://threadreaderapp.com/)
 - [Rhino3d: CAD modeller with a visual procedural graph](https://www.rhino3d.com/)
+- [Discord timestamps](https://r.3v.fi/discord-timestamps/)
 
 ## Organizations
 
