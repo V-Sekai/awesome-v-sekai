@@ -85,7 +85,7 @@ _Modules extend Godot Engine core (C++)._
 - [Rhino3d: CAD modeller with a visual procedural graph](https://www.rhino3d.com/)
 - [Discord timestamps](https://r.3v.fi/discord-timestamps/)
 
-## Organizations
+## Groups
 
 - [Godot Engine](https://godotengine.org/teams)
 - [Open Metaverse Interoperability Group](https://omigroup.org)
