@@ -84,6 +84,7 @@ _Modules extend Godot Engine core (C++)._
 - [Threadreaderapp: Provides pdf summaries of Twitter threads](https://threadreaderapp.com/)
 - [Rhino3d: CAD modeller with a visual procedural graph](https://www.rhino3d.com/)
 - [Discord timestamps](https://r.3v.fi/discord-timestamps/)
+- [When2meet helps you find the best time for a group to get together](https://www.when2meet.com/)
 
 ## Organizations
 
