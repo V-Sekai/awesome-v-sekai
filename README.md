@@ -91,3 +91,12 @@ _Modules extend Godot Engine core (C++)._
 - [Open Metaverse Interoperability Group](https://omigroup.org)
 - [Khronos](https://www.khronos.org/)
 - [Polypixel: for low polygon art](https://github.com/recatek/polypixel-wiki/wiki)
+
+## Awesome Human posing with sparse sensors
+
+- https://deepmotionediting.github.io/retargeting
+- https://peizhuoli.github.io/neural-blend-shapes/
+- https://www.ea.com/seed/news/open-source-dem-bones
+- https://github.com/RechieKho/IREE.gd.git
+- https://zhan-xu.github.io/rig-net/
+- https://github.com/PeizhuoLi/ganimator
