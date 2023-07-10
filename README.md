@@ -97,9 +97,6 @@ _Modules extend Godot Engine core (C++)._
 ## Experiments
 
 - [Godot IPFS](https://github.com/V-Sekai-fire/godot-ipfs)
-
-## Awesome Human posing with sparse sensors
-
 - https://deepmotionediting.github.io/retargeting
 - https://peizhuoli.github.io/neural-blend-shapes/
 - https://www.ea.com/seed/news/open-source-dem-bones
