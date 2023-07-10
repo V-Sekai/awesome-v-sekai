@@ -93,6 +93,10 @@ _Modules extend Godot Engine core (C++)._
 - [Khronos](https://www.khronos.org/)
 - [Polypixel: for low polygon art](https://github.com/recatek/polypixel-wiki/wiki)
 
+## Experiments
+
+- [Godot IPFS](https://github.com/V-Sekai-fire/godot-ipfs)
+
 ## Awesome Human posing with sparse sensors
 
 - https://deepmotionediting.github.io/retargeting
