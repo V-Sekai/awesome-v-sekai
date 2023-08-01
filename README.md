@@ -8,12 +8,19 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 
 ## Contents
 
+- [Applications](#applications)
 - [Websites](#websites)
 - [Plugins and Scripts](#plugins-and-scripts)
 - [Modules](#modules)
-- [Applications](#applications)
 - [Tools](#tools)
 - [Organizations](#organizations)
+
+## Applications
+
+- [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
+- [V-Sekai Uro Online Services](https://github.com/V-Sekai/uro/issues/new/choose)
+- [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
+- [VSK Model Explorer](https://github.com/V-Sekai/VSK_model_explorer)
 
 ## Websites
 
@@ -59,13 +66,6 @@ _Modules extend Godot Engine core (C++)._
 - [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)
 - [Hydro](https://github.com/godot-extended-libraries/hydro)
 - [ashtonmeuser/godot-wasm](https://github.com/ashtonmeuser/godot-wasm)
-
-## Applications
-
-- [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
-- [V-Sekai Uro Online Services](https://github.com/V-Sekai/uro/issues/new/choose)
-- [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
-- [VSK Model Explorer](https://github.com/V-Sekai/VSK_model_explorer)
 
 ## Tools
 
