@@ -77,6 +77,7 @@ _Modules extend Godot Engine core (C++)._
 - [XMP StableDiffusion DataMapper](https://github.com/Zirnworks/XMP-StableDiffusion-DataMapper)
 - [Proton Graph](https://github.com/protongraph/protongraph)
 - [Nomad Sculpt](https://nomadsculpt.com/)
+- [Quadwild for quad dominant remeshing](https://github.com/cgg-bern/quadwild-bimdf)
 
 ## Tools that bring me joy
 
