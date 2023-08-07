@@ -78,6 +78,7 @@ _Modules extend Godot Engine core (C++)._
 - [Proton Graph](https://github.com/protongraph/protongraph)
 - [Nomad Sculpt](https://nomadsculpt.com/)
 - [Quadwild for quad dominant remeshing](https://github.com/cgg-bern/quadwild-bimdf)
+- [SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline)
 
 ## Tools that bring me joy
 
