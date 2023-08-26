@@ -69,6 +69,7 @@ _Modules extend Godot Engine core (C++)._
 
 ## Tools
 
+- [SQLpage](https://github.com/lovasoa/SQLpage)
 - [V-Sekai Blender Game Tools](https://github.com/V-Sekai/vsekai-blender-game-tools)
 - [FBX2glTF FBX to GLTF Converter](https://github.com/godotengine/FBX2glTF)
 - [OpenVR driver for using VR controllers without an HMD](https://github.com/V-Sekai/V-Sekai-faceless)
