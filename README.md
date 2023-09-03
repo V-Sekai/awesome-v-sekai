@@ -79,6 +79,7 @@ _Modules extend Godot Engine core (C++)._
 - [Nomad Sculpt](https://nomadsculpt.com/)
 - [Quadwild for quad dominant remeshing](https://github.com/cgg-bern/quadwild-bimdf)
 - [SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline)
+- [Tool to tokenize gpt input](https://tiktokenizer.vercel.app/)
 
 ## Tools that bring me joy
 
