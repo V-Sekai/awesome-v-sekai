@@ -90,6 +90,7 @@ _Modules extend Godot Engine core (C++)._
 - [Discord timestamps](https://r.3v.fi/discord-timestamps/)
 - [When2meet helps you find the best time for a group to get together](https://www.when2meet.com/)
 - [Hack for quick note taking](https://hackmd.io/)
+- [Image comparison](https://imgsli.com)
 
 ## Groups
 
