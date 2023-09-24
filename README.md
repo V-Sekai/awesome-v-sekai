@@ -92,6 +92,7 @@ _Modules extend Godot Engine core (C++)._
 - [When2meet helps you find the best time for a group to get together](https://www.when2meet.com/)
 - [Hack for quick note taking](https://hackmd.io/)
 - [Image comparison](https://imgsli.com)
+- [Code Name Generator: Colors, Metal, Animals](https://www.codenamegenerator.com/)
 
 ## Groups
 
