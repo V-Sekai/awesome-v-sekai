@@ -81,6 +81,7 @@ _Modules extend Godot Engine core (C++)._
 - [Quadwild for quad dominant remeshing](https://github.com/cgg-bern/quadwild-bimdf)
 - [SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline)
 - [Tool to tokenize gpt input](https://tiktokenizer.vercel.app/)
+- [Lateral Thinking with Weathered Technology](https://en.wikipedia.org/wiki/Gunpei_Yokoi)
 
 ## Tools that bring me joy
 
