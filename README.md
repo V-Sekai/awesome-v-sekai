@@ -82,6 +82,7 @@ _Modules extend Godot Engine core (C++)._
 - [SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline)
 - [Tool to tokenize gpt input](https://tiktokenizer.vercel.app/)
 - [Lateral Thinking with Weathered Technology](https://en.wikipedia.org/wiki/Gunpei_Yokoi)
+- [Generate Blender Rigify armatures for VRM models.](https://github.com/nanoskript/vrm-rigify)
 
 ## Tools that bring me joy
 
