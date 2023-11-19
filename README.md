@@ -112,3 +112,6 @@ _Modules extend Godot Engine core (C++)._
 - https://github.com/RechieKho/IREE.gd.git
 - https://zhan-xu.github.io/rig-net/
 - https://github.com/PeizhuoLi/ganimator
+
+## Machine Learning experiments
+- [Incredibly Fast Whisper Automatic Voice Recognition](https://replicate.com/vaibhavs10/incredibly-fast-whisper)
