@@ -10,10 +10,14 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 
 - [Applications](#applications)
 - [Websites](#websites)
+- [Artwork](#artwork)
 - [Plugins and Scripts](#plugins-and-scripts)
 - [Modules](#modules)
 - [Tools](#tools)
-- [Organizations](#organizations)
+- [Tools that bring me joy](#tools-that-bring-me-joy)
+- [Groups](#groups)
+- [Experiments](#experiments)
+- [Machine Learning experiments](#machine-learning-experiments)
 
 ## Applications
 
@@ -35,7 +39,7 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 
 ## Plugins and Scripts
 
-_Scripts that let you do new stuff, or enhance Godot functionality._
+Scripts that let you do new stuff, or enhance Godot functionality.
 
 #### Godot 4.0
 
@@ -53,7 +57,7 @@ _Scripts that let you do new stuff, or enhance Godot functionality._
 
 ## Modules
 
-_Modules extend Godot Engine core (C++)._
+Modules extend Godot Engine core (C++).
 
 #### Godot 4.0
 
@@ -106,12 +110,12 @@ _Modules extend Godot Engine core (C++)._
 ## Experiments
 
 - [Godot IPFS](https://github.com/V-Sekai-fire/godot-ipfs)
-- https://deepmotionediting.github.io/retargeting
-- https://peizhuoli.github.io/neural-blend-shapes/
-- https://www.ea.com/seed/news/open-source-dem-bones
-- https://github.com/RechieKho/IREE.gd.git
-- https://zhan-xu.github.io/rig-net/
-- https://github.com/PeizhuoLi/ganimator
+- [Deep Motion Editing](https://deepmotionediting.github.io/retargeting)
+- [Neural Blend Shapes](https://peizhuoli.github.io/neural-blend-shapes/)
+- [Open Source Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones)
+- [IREE.gd](https://github.com/RechieKho/IREE.gd.git)
+- [Rig Net](https://zhan-xu.github.io/rig-net/)
+- [Ganimator](https://github.com/PeizhuoLi/ganimator)
 
 ## Machine Learning experiments
 
