@@ -114,4 +114,6 @@ _Modules extend Godot Engine core (C++)._
 - https://github.com/PeizhuoLi/ganimator
 
 ## Machine Learning experiments
+
 - [Incredibly Fast Whisper Automatic Voice Recognition](https://replicate.com/vaibhavs10/incredibly-fast-whisper)
+- [Obsidian-3B-V0.5: Worlds smallest multi-modal LLM](https://replicate.com/tomasmcm/obsidian-3b-v0.5)
