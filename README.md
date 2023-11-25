@@ -101,6 +101,10 @@ Modules extend Godot Engine core (C++).
 - [Image comparison](https://imgsli.com)
 - [Code Name Generator: Colors, Metal, Animals](https://www.codenamegenerator.com/)
 
+## Articles
+
+- [Coding for a Finite World](https://yoric.github.io/post/coding-for-a-finite-world/)
+
 ## Groups
 
 - [Godot Engine](https://godotengine.org/teams)
