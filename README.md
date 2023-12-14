@@ -127,3 +127,4 @@ Modules extend Godot Engine core (C++).
 
 - [Incredibly Fast Whisper Automatic Voice Recognition](https://replicate.com/vaibhavs10/incredibly-fast-whisper)
 - [Obsidian-3B-V0.5: Worlds smallest multi-modal LLM](https://replicate.com/tomasmcm/obsidian-3b-v0.5)
+- [MeshTransformer](https://github.com/lucidrains/meshgpt-pytorch/)
