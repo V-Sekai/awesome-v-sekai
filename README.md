@@ -32,6 +32,7 @@ A curated list of all the projects V-Sekai has been involved with in the field o
 - [V-Sekai Manuals Website](https://github.com/V-Sekai/manuals)
 - [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/)
 - [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/)
+- [Godot Engine PRs by File](https://godotengine.github.io/godot-prs-by-file/)
 
 ## Artwork
 
