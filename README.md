@@ -90,6 +90,7 @@ Modules extend Godot Engine core (C++).
 - [Hack for quick note taking](https://hackmd.io/)
 - [Image comparison](https://imgsli.com)
 - [Code Name Generator: Colors, Metal, Animals](https://www.codenamegenerator.com/)
+- [Voice Changer Guide](https://rentry.co/VoiceChangerGuide)
 
 ## Articles
 
