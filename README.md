@@ -52,6 +52,7 @@ Modules extend Godot Engine core (C++).
 - [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/)
 - [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/)
 - [Godot Engine PRs by File](https://godotengine.github.io/godot-prs-by-file/)
+- [Getty OpenContent CC0](https://www.getty.edu/art/collection/search?open_content=true)
 
 ## Artwork
 
@@ -76,6 +77,9 @@ Modules extend Godot Engine core (C++).
 - [Generate Blender Rigify armatures for VRM models.](https://github.com/nanoskript/vrm-rigify)
 - [Three VRM Inspector](https://0b5vr.com/three-vrm-inspector/)
 - [ultorg: A User Interface for Relational Data](https://www.ultorg.com/)
+- [Worldtime Buddy](https://www.worldtimebuddy.com/)
+- [Booth Avatars](https://boothplorer.com/avatars)
+- [Lazygit](https://github.com/jesseduffield/lazygit)
 
 ## Tools that bring me joy
 
@@ -88,6 +92,9 @@ Modules extend Godot Engine core (C++).
 - [Hack for quick note taking](https://hackmd.io/)
 - [Image comparison](https://imgsli.com)
 - [Code Name Generator: Colors, Metal, Animals](https://www.codenamegenerator.com/)
+- [Voice Changer Guide](https://rentry.co/VoiceChangerGuide)
+- [Sapling: A Scalable, User-Friendly Source Control System](https://github.com/facebook/sapling.git)
+- [Provide the user with inverse control over the hyper-parameters through a brush stroke metaphor](https://github.com/eliemichel/DagAmendment)
 
 ## Articles
 
