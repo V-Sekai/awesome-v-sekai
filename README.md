@@ -95,6 +95,7 @@ Modules extend Godot Engine core (C++).
 - [Voice Changer Guide](https://rentry.co/VoiceChangerGuide)
 - [Sapling: A Scalable, User-Friendly Source Control System](https://github.com/facebook/sapling.git)
 - [Provide the user with inverse control over the hyper-parameters through a brush stroke metaphor](https://github.com/eliemichel/DagAmendment)
+- [Quad polygon remeshing for hard surface](https://github.com/cgg-bern/quadwild-bimdf)
 
 ## Articles
 
