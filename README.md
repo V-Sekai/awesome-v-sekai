@@ -70,7 +70,7 @@ Modules extend Godot Engine core (C++).
 - [XMP StableDiffusion DataMapper](https://github.com/Zirnworks/XMP-StableDiffusion-DataMapper)
 - [Proton Graph](https://github.com/protongraph/protongraph)
 - [Nomad Sculpt](https://nomadsculpt.com/)
-- [Quadwild for quad dominant remeshing](https://github.com/cgg-bern/quadwild-bimdf)
+- [Quadwild for quad dominant remeshing (with Bi-MDF)](https://github.com/cgg-bern/quadwild-bimdf)
 - [SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline)
 - [Tool to tokenize gpt input](https://tiktokenizer.vercel.app/)
 - [Lateral Thinking with Weathered Technology](https://en.wikipedia.org/wiki/Gunpei_Yokoi)
