@@ -80,6 +80,7 @@ Modules extend Godot Engine core (C++).
 - [Worldtime Buddy](https://www.worldtimebuddy.com/)
 - [Booth Avatars](https://boothplorer.com/avatars)
 - [Lazygit](https://github.com/jesseduffield/lazygit)
+- [Approximate Convex Decomposition for 3D Meshes](https://github.com/SarahWeiii/CoACD)
 
 ## Tools that bring me joy
 
