@@ -98,6 +98,7 @@ Modules extend Godot Engine core (C++).
 - [Provide the user with inverse control over the hyper-parameters through a brush stroke metaphor](https://github.com/eliemichel/DagAmendment)
 - [Quad polygon remeshing for hard surface](https://github.com/cgg-bern/quadwild-bimdf)
 - [Ultorg is a general-purpose database app that connects to your existing data. Work quickly across tables, queries, and relationships, without manual coding or page design.](https://www.ultorg.com/)
+- [VRM Downgrader](https://vrm-downgrader.pages.dev/)
 
 ## Articles
 
