@@ -103,6 +103,7 @@ Modules extend Godot Engine core (C++).
 ## Articles
 
 - [Coding for a Finite World](https://yoric.github.io/post/coding-for-a-finite-world/)
+- [How_to_Atlas_everything_in_your_World](https://wiki.vrchat.com/wiki/How_to_Atlas_everything_in_your_World)
 
 ## Groups
 
