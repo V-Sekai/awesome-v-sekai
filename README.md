@@ -44,7 +44,8 @@ Modules extend Godot Engine core (C++).
 - [Lasso Makes the Task of Selecting Objects in VR Easier](https://github.com/V-Sekai/lasso)
 - [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)
 - [Hydro](https://github.com/godot-extended-libraries/hydro)
-- [ashtonmeuser/godot-wasm](https://github.com/ashtonmeuser/godot-wasm)
+- [iree-gd/iree.gd for machine learning models in Godot](https://github.com/iree-gd/iree.gd)
+- [Sandboxing that enables safe modding for Godot games ](https://github.com/libriscv/godot-sandbox)
 
 ## Websites
 
