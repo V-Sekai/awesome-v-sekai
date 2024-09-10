@@ -20,6 +20,7 @@ Scripts that let you do new stuff, or enhance Godot functionality.
 #### Godot 4.0
 
 - [Unidot Godot Import for .unitypackage and other assets](https://github.com/V-Sekai/unidot_importer)
+- [Godot Snappy for mesh snapping](https://github.com/jgillich/godot-snappy)
 - [Godot Import VRM for Portable Avatars](https://github.com/V-Sekai/godot-vrm)
   - [VRM for Portable Avatars Overview](https://github.com/fire/awesome-godot-procedural-generation/files/10690951/VRM.Overview.pdf)
 - [Point Cloud Multistroke Recognizer](https://github.com/V-Sekai/godot-point-cloud-multistroke-recognizer)
