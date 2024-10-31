@@ -120,7 +120,7 @@ Modules extend Godot Engine core (C++).
 ## Experiments
 
 - [Open Source Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones)
-- [Rig Net](https://zhan-xu.github.io/rig-net
+- [Rig Net](https://zhan-xu.github.io/rig-net)
 
 ## Machine Learning experiments
 
