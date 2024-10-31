@@ -6,7 +6,7 @@ V-Sekai (pronounced vee-say-kai) is an open-source project that aims to bring so
 
 A curated list of all the projects V-Sekai has been involved with in the field of social VR.
 
-## Other Awesome lists
+## Other Awesome Lists
 
 - [Awesome Godot Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific)
 
