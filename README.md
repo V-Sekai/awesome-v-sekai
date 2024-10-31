@@ -35,6 +35,7 @@ Scripts that let you do new stuff, or enhance Godot functionality.
 - [In-editor box modelling for gray boxing or prototyping 3d levels.](https://github.com/jarneson/godot-ply)
 - [IREE.gd combines the IREE runtime with the Godot game engine, which facilitates the seamless integration of machine learning features into video games](https://github.com/RechieKho/IREE.gd)
 - [AndreaCatania/godot_tracy: provides visibility into Godot Engine performance](https://github.com/AndreaCatania/godot_tracy)
+- [NitroxNova/humanizer](https://github.com/NitroxNova/humanizer)
 
 ### Godot 4 Modules
 
