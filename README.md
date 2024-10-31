@@ -38,10 +38,9 @@ Scripts that let you do new stuff, or enhance Godot functionality.
 - [Point Cloud Multistroke Recognizer](https://github.com/V-Sekai/godot-point-cloud-multistroke-recognizer)
 - [XR Tunneling shader](https://github.com/V-Sekai/godot_xr_vignette)
 - [Godot Splerger to Split and Merge Godot Engine Scenes](https://github.com/V-Sekai/godot-splerger)
-- [Task Goal Planner](https://github.com/V-Sekai/godot-task-goal-planner)
 - [Verlet Rope Simulation](https://github.com/V-Sekai/godot-verlet-rope)
 - [In-editor box modelling for gray boxing or prototyping 3d levels.](https://github.com/jarneson/godot-ply)
-- [IREE.gd combines the IREE runtime with the Godot game engine, which facilitates the seamless integration of machine learning features into video games](https://github.com/RechieKho/IREE.gd)
+- [IREE.gd integrates machine learning features into video games](https://github.com/RechieKho/IREE.gd)
 - [AndreaCatania/godot_tracy: provides visibility into Godot Engine performance](https://github.com/AndreaCatania/godot_tracy)
 - [NitroxNova/humanizer](https://github.com/NitroxNova/humanizer)
 
@@ -56,9 +55,9 @@ Modules extend Godot Engine core (C++).
 - [Lasso Makes the Task of Selecting Objects in VR Easier](https://github.com/V-Sekai/lasso)
 - [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)
 - [Hydro](https://github.com/godot-extended-libraries/hydro)
-- [iree-gd/iree.gd for machine learning models in Godot](https://github.com/iree-gd/iree.gd)
 - [Sandboxing that enables safe modding for Godot games ](https://github.com/libriscv/godot-sandbox)
 - [GuilhermeGSousa/godot-motion-matching](https://github.com/GuilhermeGSousa/godot-motion-matching)
+- [Task Goal Planner](https://github.com/V-Sekai/godot-task-goal-planner)
 
 ## Artwork
 
