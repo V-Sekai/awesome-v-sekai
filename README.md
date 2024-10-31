@@ -117,14 +117,8 @@ Modules extend Godot Engine core (C++).
 - [Khronos](https://www.khronos.org/)
 - [Polypixel: for low polygon art](https://github.com/recatek/polypixel-wiki/wiki)
 
-## Experiments
-
-- [Open Source Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones)
-- [Rig Net](https://zhan-xu.github.io/rig-net)
-
 ## Machine Learning experiments
 
 - [Microsoft PHI-3](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3)
-- [Incredibly Fast Whisper Automatic Voice Recognition](https://replicate.com/vaibhavs10/incredibly-fast-whisper)
 - [MeshTransformer](https://github.com/lucidrains/meshgpt-pytorch/)
-- [Tiktokenizer](https://tiktokenizer.vercel.app/)
+- [SpaceMesh](https://research.nvidia.com/labs/toronto-ai/space-mesh/)
