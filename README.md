@@ -6,6 +6,10 @@ V-Sekai (pronounced vee-say-kai) is an open-source project that aims to bring so
 
 A curated list of all the projects V-Sekai has been involved with in the field of social VR.
 
+## Other Awesome lists
+
+- [Awesome Godot Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific)
+
 ## Applications
 
 - [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
@@ -31,8 +35,6 @@ Scripts that let you do new stuff, or enhance Godot functionality.
 - [In-editor box modelling for gray boxing or prototyping 3d levels.](https://github.com/jarneson/godot-ply)
 - [IREE.gd combines the IREE runtime with the Godot game engine, which facilitates the seamless integration of machine learning features into video games](https://github.com/RechieKho/IREE.gd)
 - [AndreaCatania/godot_tracy: provides visibility into Godot Engine performance](https://github.com/AndreaCatania/godot_tracy)
-- [GuilhermeGSousa/godot-motion-matching](https://github.com/GuilhermeGSousa/godot-motion-matching)
-- [libriscv/godot-sandbox Script Sandbox](https://github.com/libriscv/godot-sandbox)
 
 ## Modules
 
@@ -49,6 +51,7 @@ Modules extend Godot Engine core (C++).
 - [Hydro](https://github.com/godot-extended-libraries/hydro)
 - [iree-gd/iree.gd for machine learning models in Godot](https://github.com/iree-gd/iree.gd)
 - [Sandboxing that enables safe modding for Godot games ](https://github.com/libriscv/godot-sandbox)
+- [GuilhermeGSousa/godot-motion-matching](https://github.com/GuilhermeGSousa/godot-motion-matching)
 
 ## Websites
 
