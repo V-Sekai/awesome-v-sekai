@@ -21,7 +21,7 @@ A curated list of V-Sekai projects within social VR.
 
 Scripts that let you do new stuff, or enhance Godot functionality.
 
-#### Godot 4.4
+### Godot 4.4 Addons
 
 - [Unidot Godot Import for .unitypackage and other assets](https://github.com/V-Sekai/unidot_importer)
 - [Godot Snappy for mesh snapping](https://github.com/jgillich/godot-snappy)
@@ -36,11 +36,9 @@ Scripts that let you do new stuff, or enhance Godot functionality.
 - [IREE.gd combines the IREE runtime with the Godot game engine, which facilitates the seamless integration of machine learning features into video games](https://github.com/RechieKho/IREE.gd)
 - [AndreaCatania/godot_tracy: provides visibility into Godot Engine performance](https://github.com/AndreaCatania/godot_tracy)
 
-## Modules
+### Godot 4 Modules
 
 Modules extend Godot Engine core (C++).
-
-#### Godot 4.0
 
 - [Godot Speech](https://github.com/v-sekai/godot_speech)
 - [Fast Subdivision with opensubdiv](https://github.com/V-Sekai/godot-subdiv)
