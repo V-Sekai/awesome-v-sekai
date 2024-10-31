@@ -27,7 +27,7 @@ A curated list of V-Sekai projects within social VR.
 
 ## Plugins and Scripts
 
-Scripts that let you do new stuff, or enhance Godot functionality.
+Scripts that let you do new stuff or enhance Godot functionality.
 
 ### Godot 4.4 Addons
 
@@ -75,9 +75,9 @@ Modules extend Godot Engine core (C++).
 - [XMP StableDiffusion DataMapper](https://github.com/Zirnworks/XMP-StableDiffusion-DataMapper)
 - [Proton Graph](https://github.com/protongraph/protongraph)
 - [Nomad Sculpt](https://nomadsculpt.com/)
-- [Quadwild for quad dominant remeshing (with Bi-MDF)](https://github.com/cgg-bern/quadwild-bimdf)
+- [Quadwild for quad-dominant re-meshing (with Bi-MDF)](https://github.com/cgg-bern/quadwild-bimdf)
 - [SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline)
-- [Tool to tokenize gpt input](https://tiktokenizer.vercel.app/)
+- [Tool to tokenize GPT input](https://tiktokenizer.vercel.app/)
 - [Lateral Thinking with Weathered Technology](https://en.wikipedia.org/wiki/Gunpei_Yokoi)
 - [Generate Blender Rigify armatures for VRM models.](https://github.com/nanoskript/vrm-rigify)
 - [Three VRM Inspector](https://0b5vr.com/three-vrm-inspector/)
@@ -90,18 +90,18 @@ Modules extend Godot Engine core (C++).
 ## Tools that bring me joy
 
 - [Elk: Mastadon client](https://elk.zone)
-- [Libhunt: Shows trending github repositories based on social media links](https://www.libhunt.com)
+- [Libhunt: Shows trending GitHub repositories based on social media links](https://www.libhunt.com)
 - [Threadreaderapp: Provides pdf summaries of Twitter threads](https://threadreaderapp.com/)
 - [Rhino3d: CAD modeller with a visual procedural graph](https://www.rhino3d.com/)
 - [Discord timestamps](https://r.3v.fi/discord-timestamps/)
 - [When2meet helps you find the best time for a group to get together](https://www.when2meet.com/)
-- [Hack for quick note taking](https://hackmd.io/)
+- [Hack for quick note-taking](https://hackmd.io/)
 - [Image comparison](https://imgsli.com)
 - [Code Name Generator: Colors, Metal, Animals](https://www.codenamegenerator.com/)
 - [Voice Changer Guide](https://rentry.co/VoiceChangerGuide)
 - [Sapling: A Scalable, User-Friendly Source Control System](https://github.com/facebook/sapling.git)
 - [Provide the user with inverse control over the hyper-parameters through a brush stroke metaphor](https://github.com/eliemichel/DagAmendment)
-- [Quad polygon remeshing for hard surface](https://github.com/cgg-bern/quadwild-bimdf)
+- [Quad polygon re-meshing for hard surface](https://github.com/cgg-bern/quadwild-bimdf)
 - [Ultorg is a general-purpose database app that connects to your existing data. Work quickly across tables, queries, and relationships, without manual coding or page design.](https://www.ultorg.com/)
 - [VRM Downgrader](https://vrm-downgrader.pages.dev/)
 
@@ -119,13 +119,8 @@ Modules extend Godot Engine core (C++).
 
 ## Experiments
 
-- [Godot IPFS](https://github.com/V-Sekai-fire/godot-ipfs)
-- [Deep Motion Editing](https://deepmotionediting.github.io/retargeting)
-- [Neural Blend Shapes](https://peizhuoli.github.io/neural-blend-shapes/)
 - [Open Source Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones)
-- [IREE.gd](https://github.com/RechieKho/IREE.gd.git)
-- [Rig Net](https://zhan-xu.github.io/rig-net/)
-- [Ganimator](https://github.com/PeizhuoLi/ganimator)
+- [Rig Net](https://zhan-xu.github.io/rig-net
 
 ## Machine Learning experiments
 
