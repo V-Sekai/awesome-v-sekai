@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-V-Sekai (pronounced vee-say-kai) is an open-source project that aims to bring social VR/VRSNS/metaverse components to the [Godot Engine](https://godotengine.org).
+V-Sekai (pronounced vee-say-kai) aims to bring FOSS social VR/VRSNS/metaverse components to [Godot Engine](https://godotengine.org).
 
 A curated list of V-Sekai projects within social VR.
 
