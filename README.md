@@ -89,6 +89,7 @@ Modules extend Godot Engine core (C++).
 
 ## Tools that bring me joy
 
+- [World Clock](https://www.timeanddate.com/worldclock/)
 - [Elk: Mastadon client](https://elk.zone)
 - [Libhunt: Shows trending GitHub repositories based on social media links](https://www.libhunt.com)
 - [Threadreaderapp: Provides pdf summaries of Twitter threads](https://threadreaderapp.com/)
