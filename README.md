@@ -4,8 +4,6 @@
 
 V-Sekai (pronounced vee-say-kai) aims to bring FOSS social VR/VRSNS/metaverse components to [Godot Engine](https://godotengine.org).
 
-A curated list of V-Sekai projects within social VR.
-
 ## Applications
 
 - [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
