@@ -10,14 +10,6 @@ A curated list of V-Sekai projects within social VR.
 
 - [Awesome Godot Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific)
 
-## Websites
-
-- [V-Sekai Manuals Website](https://github.com/V-Sekai/manuals)
-- [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/)
-- [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/)
-- [Godot Engine PRs by File](https://godotengine.github.io/godot-prs-by-file/)
-- [Getty OpenContent CC0](https://www.getty.edu/art/collection/search?open_content=true)
-
 ## Applications
 
 - [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
@@ -107,10 +99,15 @@ Modules extend Godot Engine core (C++).
 - [Ultorg is a general-purpose database app that connects to your existing data. Work quickly across tables, queries, and relationships without manual coding or page design.](https://www.ultorg.com/)
 - [VRM Downgrader](https://vrm-downgrader.pages.dev/)
 
-## Articles
+## Websites
 
 - [Coding for a Finite World](https://yoric.github.io/post/coding-for-a-finite-world/)
 - [How to atlas everything in your world](https://wiki.vrchat.com/wiki/How_to_Atlas_everything_in_your_World)
+- [V-Sekai Manuals Website](https://github.com/V-Sekai/manuals)
+- [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/)
+- [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/)
+- [Godot Engine PRs by File](https://godotengine.github.io/godot-prs-by-file/)
+- [Getty OpenContent CC0](https://www.getty.edu/art/collection/search?open_content=true)
 
 ## Groups
 
