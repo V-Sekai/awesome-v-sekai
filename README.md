@@ -10,26 +10,7 @@ V-Sekai (pronounced vee-say-kai) aims to bring FOSS social VR/VRSNS/metaverse co
 - [V-Sekai Uro Online Services](https://github.com/V-Sekai/uro/issues/new/choose)
 - [VSK Model Explorer](https://github.com/V-Sekai/VSK_model_explorer)
 
-## Plugins and Scripts
-
-Scripts that let you do new stuff or enhance Godot functionality.
-
-### Godot 4.4 Addons
-
-- [Unidot Godot Import for .unitypackage and other assets](https://github.com/V-Sekai/unidot_importer)
-- [Godot Snappy for mesh snapping](https://github.com/jgillich/godot-snappy)
-- [Godot Import VRM for Portable Avatars](https://github.com/V-Sekai/godot-vrm)
-  - [VRM for Portable Avatars Overview](https://github.com/fire/awesome-godot-procedural-generation/files/10690951/VRM.Overview.pdf)
-- [Point Cloud Multistroke Recognizer](https://github.com/V-Sekai/godot-point-cloud-multistroke-recognizer)
-- [XR Tunneling shader](https://github.com/V-Sekai/godot_xr_vignette)
-- [Godot Splerger to Split and Merge Godot Engine Scenes](https://github.com/V-Sekai/godot-splerger)
-- [Verlet Rope Simulation](https://github.com/V-Sekai/godot-verlet-rope)
-- [In-editor box modelling for gray boxing or prototyping 3d levels.](https://github.com/jarneson/godot-ply)
-- [IREE.gd integrates machine learning features into video games](https://github.com/RechieKho/IREE.gd)
-- [AndreaCatania/godot_tracy: provides visibility into Godot Engine performance](https://github.com/AndreaCatania/godot_tracy)
-- [Humanizer converts MPFB2 to Godot 4 ](https://github.com/NitroxNova/humanizer)
-
-### Godot 4 Modules
+## Godot 4 Modules
 
 Modules extend Godot Engine core (C++).
 
@@ -44,6 +25,23 @@ Modules extend Godot Engine core (C++).
 - [Hydro](https://github.com/godot-extended-libraries/hydro)
 - [GuilhermeGSousa/godot-motion-matching](https://github.com/GuilhermeGSousa/godot-motion-matching)
 - [Task Goal Planner](https://github.com/V-Sekai/godot-task-goal-planner)
+
+## Godot 4.4 Addons
+
+Let you do new stuff or enhance Godot functionality.
+
+- [Unidot Godot Import for .unitypackage and other assets](https://github.com/V-Sekai/unidot_importer)
+- [Godot Snappy for mesh snapping](https://github.com/jgillich/godot-snappy)
+- [Godot Import VRM for Portable Avatars](https://github.com/V-Sekai/godot-vrm)
+  - [VRM for Portable Avatars Overview](https://github.com/fire/awesome-godot-procedural-generation/files/10690951/VRM.Overview.pdf)
+- [Point Cloud Multistroke Recognizer](https://github.com/V-Sekai/godot-point-cloud-multistroke-recognizer)
+- [XR Tunneling shader](https://github.com/V-Sekai/godot_xr_vignette)
+- [Godot Splerger to Split and Merge Godot Engine Scenes](https://github.com/V-Sekai/godot-splerger)
+- [Verlet Rope Simulation](https://github.com/V-Sekai/godot-verlet-rope)
+- [In-editor box modelling for gray boxing or prototyping 3d levels.](https://github.com/jarneson/godot-ply)
+- [IREE.gd integrates machine learning features into video games](https://github.com/RechieKho/IREE.gd)
+- [AndreaCatania/godot_tracy: provides visibility into Godot Engine performance](https://github.com/AndreaCatania/godot_tracy)
+- [Humanizer converts MPFB2 to Godot 4 ](https://github.com/NitroxNova/humanizer)
 
 ## Artwork
 
