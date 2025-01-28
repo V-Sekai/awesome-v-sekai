@@ -8,7 +8,6 @@ V-Sekai (pronounced vee-say-kai) aims to bring FOSS social VR/VRSNS/metaverse co
 
 - [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
 - [V-Sekai Uro Online Services](https://github.com/V-Sekai/uro/issues/new/choose)
-- [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
 - [VSK Model Explorer](https://github.com/V-Sekai/VSK_model_explorer)
 
 ## Plugins and Scripts
@@ -102,6 +101,7 @@ Modules extend Godot Engine core (C++).
 - [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/)
 - [Godot Engine PRs by File](https://godotengine.github.io/godot-prs-by-file/)
 - [Getty OpenContent CC0](https://www.getty.edu/art/collection/search?open_content=true)
+- [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
 
 ## Groups
 
