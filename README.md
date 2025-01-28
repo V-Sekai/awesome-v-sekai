@@ -48,6 +48,8 @@ Scripts that let you do new stuff or enhance Godot functionality.
 
 Modules extend Godot Engine core (C++).
 
+- [Running Pre-trained Machine Learning Model in Godot](https://github.com/iree-gd/iree.gd)
+- [In-editor scripting and sandboxing for Godot](https://github.com/libriscv/godot-sandbox)
 - [Godot Speech](https://github.com/v-sekai/godot_speech)
 - [Fast Subdivision with opensubdiv](https://github.com/V-Sekai/godot-subdiv)
 - [Inverse Kinematics System Solver for Multi-chain Skeletons and with Constraints](https://github.com/V-Sekai/many_bone_ik)
@@ -55,7 +57,6 @@ Modules extend Godot Engine core (C++).
 - [Lasso Makes the Task of Selecting Objects in VR Easier](https://github.com/V-Sekai/lasso)
 - [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)
 - [Hydro](https://github.com/godot-extended-libraries/hydro)
-- [Sandboxing that enables safe modding for Godot games ](https://github.com/libriscv/godot-sandbox)
 - [GuilhermeGSousa/godot-motion-matching](https://github.com/GuilhermeGSousa/godot-motion-matching)
 - [Task Goal Planner](https://github.com/V-Sekai/godot-task-goal-planner)
 
