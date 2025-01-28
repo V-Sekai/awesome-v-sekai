@@ -6,10 +6,6 @@ V-Sekai (pronounced vee-say-kai) aims to bring FOSS social VR/VRSNS/metaverse co
 
 A curated list of V-Sekai projects within social VR.
 
-## Other Awesome Lists
-
-- [Awesome Godot Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific)
-
 ## Applications
 
 - [V-Sekai Game](https://github.com/V-Sekai/v-sekai-game)
@@ -121,3 +117,7 @@ Modules extend Godot Engine core (C++).
 - [Microsoft PHI-3](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3)
 - [MeshTransformer](https://github.com/lucidrains/meshgpt-pytorch/)
 - [SpaceMesh](https://research.nvidia.com/labs/toronto-ai/space-mesh/)
+
+## Other Awesome Lists
+
+- [Awesome Godot Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific)
