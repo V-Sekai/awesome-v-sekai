@@ -50,6 +50,7 @@ Let you do new stuff or enhance Godot functionality.
 
 ## Other Tools
 
+- [Lottie](https://lottie.github.io/)
 - [SQLpage](https://github.com/lovasoa/SQLpage)
 - [V-Sekai Blender Game Tools](https://github.com/V-Sekai/vsekai-blender-game-tools)
 - [FBX2glTF FBX to GLTF Converter](https://github.com/godotengine/FBX2glTF)
