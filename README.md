@@ -1,4 +1,4 @@
-# Awesome V-Sekai Community Projects
+# Awesome V-Sekai
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -101,6 +101,8 @@ Let you do new stuff or enhance Godot functionality.
 - [Godot Engine PRs by File](https://godotengine.github.io/godot-prs-by-file/)
 - [Getty OpenContent CC0](https://www.getty.edu/art/collection/search?open_content=true)
 - [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
+- [A third-party item and avatar catalogue, primarily for VRChat, with items from BOOTH.pm and more](https://boothplorer.com/)
+- [BOOTH: Global Marketplace for Creative Endeavors](https://booth.pm/)
 
 ## Groups
 
