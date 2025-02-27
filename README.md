@@ -71,6 +71,7 @@ Let you do new stuff or enhance Godot functionality.
 - [Booth Avatars](https://boothplorer.com/avatars)
 - [Lazygit](https://github.com/jesseduffield/lazygit)
 - [Approximate Convex Decomposition for 3D Meshes](https://github.com/SarahWeiii/CoACD)
+- [Macroons: minimally-stateful bearer token, a blob signed with HMAC](https://fly.io/blog/macaroons-escalated-quickly/)
 
 ## Tools that bring me joy
 
@@ -103,6 +104,7 @@ Let you do new stuff or enhance Godot functionality.
 - [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
 - [A third-party item and avatar catalogue, primarily for VRChat, with items from BOOTH.pm and more](https://boothplorer.com/)
 - [BOOTH: Global Marketplace for Creative Endeavors](https://booth.pm/)
+  
 
 ## Groups
 
