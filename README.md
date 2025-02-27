@@ -116,6 +116,7 @@ Let you do new stuff or enhance Godot functionality.
 - [Microsoft PHI-3](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3)
 - [MeshTransformer](https://github.com/lucidrains/meshgpt-pytorch/)
 - [SpaceMesh](https://research.nvidia.com/labs/toronto-ai/space-mesh/)
+- [together.ai Model training, fine-tuning, and inference](https://www.together.ai/)
 
 ## Other Awesome Lists
 
