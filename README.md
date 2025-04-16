@@ -104,7 +104,7 @@ Let you do new stuff or enhance Godot functionality.
 - [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
 - [A third-party item and avatar catalogue, primarily for VRChat, with items from BOOTH.pm and more](https://boothplorer.com/)
 - [BOOTH: Global Marketplace for Creative Endeavors](https://booth.pm/)
-  
+- [Generate timestamp indicators for Discord chat messages](https://hammertime.cyou/)  
 
 ## Groups
 
