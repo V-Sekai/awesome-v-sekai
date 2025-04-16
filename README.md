@@ -80,7 +80,6 @@ Let you do new stuff or enhance Godot functionality.
 - [Libhunt: Shows trending GitHub repositories based on social media links](https://www.libhunt.com)
 - [Threadreaderapp: Provides pdf summaries of Twitter threads](https://threadreaderapp.com/)
 - [Rhino3d: CAD modeller with a visual procedural graph](https://www.rhino3d.com/)
-- [Discord timestamps](https://r.3v.fi/discord-timestamps/)
 - [When2meet helps you find the best time for a group to get together](https://www.when2meet.com/)
 - [Hack for quick note-taking](https://hackmd.io/)
 - [Image comparison](https://imgsli.com)
@@ -91,6 +90,8 @@ Let you do new stuff or enhance Godot functionality.
 - [Quad polygon re-meshing for hard surface](https://github.com/cgg-bern/quadwild-bimdf)
 - [Ultorg is a general-purpose database app that connects to your existing data. Work quickly across tables, queries, and relationships without manual coding or page design.](https://www.ultorg.com/)
 - [VRM Downgrader](https://vrm-downgrader.pages.dev/)
+- [Generate timestamp indicators for Discord chat messages](https://hammertime.cyou/)
+- [Discord timestamps](https://r.3v.fi/discord-timestamps/)
 
 ## Websites
 
@@ -104,7 +105,6 @@ Let you do new stuff or enhance Godot functionality.
 - [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)
 - [A third-party item and avatar catalogue, primarily for VRChat, with items from BOOTH.pm and more](https://boothplorer.com/)
 - [BOOTH: Global Marketplace for Creative Endeavors](https://booth.pm/)
-- [Generate timestamp indicators for Discord chat messages](https://hammertime.cyou/)  
 
 ## Groups
 
