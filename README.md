@@ -50,6 +50,7 @@ Let you do new stuff or enhance Godot functionality.
 
 ## Other Tools
 
+- [magika_onnx](https://github.com/trevorhobenshield/magika_onnx)
 - [Lottie](https://lottie.github.io/)
 - [SQLpage](https://github.com/lovasoa/SQLpage)
 - [V-Sekai Blender Game Tools](https://github.com/V-Sekai/vsekai-blender-game-tools)
