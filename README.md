@@ -50,7 +50,7 @@ Let you do new stuff or enhance Godot functionality.
 
 ## Other Tools
 
-- [Magika_ONNX Minimal File Type Prediction](https://github.com/trevorhobenshield/magika_onnx)
+- [Magika ONNX Minimal File Type Prediction](https://github.com/trevorhobenshield/magika_onnx)
 - [Lottie](https://lottie.github.io/)
 - [SQLpage](https://github.com/lovasoa/SQLpage)
 - [V-Sekai Blender Game Tools](https://github.com/V-Sekai/vsekai-blender-game-tools)
