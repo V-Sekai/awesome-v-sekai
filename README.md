@@ -76,6 +76,7 @@ Let you do new stuff or enhance Godot functionality.
 
 ## Tools that bring me joy
 
+- [Aurora appstore usable on the Meta Quest](https://auroraoss.com/)
 - [World Clock](https://www.timeanddate.com/worldclock/)
 - [Elk: Mastadon client](https://elk.zone)
 - [Libhunt: Shows trending GitHub repositories based on social media links](https://www.libhunt.com)
