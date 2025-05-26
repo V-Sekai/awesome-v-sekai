@@ -33,7 +33,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 *This section includes modules deeply integrated into V-Sekai's custom Godot Engine build.*
 
-* [godot-goal-task-planner](https://github.com/V-Sekai/godot-goal-task-planner) \- Determines a PlannerPlan to accomplish a "todo list" from a provided state. (C++, C, Python, AI Planning. *Likely integrated via gitassembly-staging.*) (Also listed as godot-task-goal-planner previously)  
+* [godot-goal-task-planner](https://github.com/V-Sekai/godot-goal-task-planner) \- Determines a PlannerPlan to accomplish a "todo list" from a provided state. (C++, C, Python, AI Planning) 
 * [godot-speech](https://github.com/V-Sekai/godot-speech) \- Speech processor and compressor addon for Godot. (C++, Fork of SaracenOne/godot\_speech)  
 * [lasso](https://github.com/V-Sekai/lasso) \- A custom Godot Engine module designed to make the task of selecting objects in VR easier. (C++, C, Python)  
 * [godot\_openxr\_vendors](https://github.com/V-Sekai/godot_openxr_vendors) \- Godot 4 wrapper for OpenXR vendors loaders and extensions. (C++, fork of GodotVR/godot\_openxr\_vendors)  
