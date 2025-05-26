@@ -36,7 +36,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [godot-goal-task-planner](https://github.com/V-Sekai/godot-goal-task-planner) \- Determines a PlannerPlan to accomplish a "todo list" from a provided state. (C++, C, Python, AI Planning. *Likely integrated via gitassembly-staging.*) (Also listed as godot-task-goal-planner previously)  
 * [godot-speech](https://github.com/V-Sekai/godot-speech) \- Speech processor and compressor addon for Godot. (C++, Fork of SaracenOne/godot\_speech)  
 * [lasso](https://github.com/V-Sekai/lasso) \- A custom Godot Engine module designed to make the task of selecting objects in VR easier. (C++, C, Python)  
-* [godot\_openxr\_vendors](https://github.com/V-Sekai/godot_openxr_vendors) \- Godot 4 wrapper for OpenXR vendors loaders and extensions. (C++, Likely fork of GodotVR/godot\_openxr\_vendors)  
+* [godot\_openxr\_vendors](https://github.com/V-Sekai/godot_openxr_vendors) \- Godot 4 wrapper for OpenXR vendors loaders and extensions. (C++, fork of GodotVR/godot\_openxr\_vendors)  
 * [libgodot\_project](https://github.com/V-Sekai/libgodot_project) \- Project related to LibGodot for embedding Godot. (C++. See also elixir-libgodot)  
 * [godot-vsk-sqlite](https://github.com/V-Sekai/godot-vsk-sqlite) \- SQLite integration for Godot. (C++, C, Python, Module/GDExtension)  
 * [Fast Subdivision with opensubdiv](https://github.com/V-Sekai/godot-subdiv) \- (C++)  
@@ -56,7 +56,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 ## **Godot 4.x Addons (GDScript & GDExtensions)**
 
-*Typically GDScript based or GDExtensions, enhancing editor or project capabilities. (Previously Godot 4.4 Addons)*
+*Typically GDScript based or GDExtensions, enhancing editor or project capabilities.*
 
 * [godot-humanoid](https://github.com/V-Sekai/godot-humanoid) \- Work in progress with humanoid muscle encoding to/from quaternion for animation/networking. (GDScript)  
 * [godot-humanoid-project](https://github.com/V-Sekai/godot-humanoid-project) \- Project likely for humanoid avatar systems. (GDScript)  
@@ -80,14 +80,13 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 * [xr-grid](https://github.com/V-Sekai/xr-grid) \- A VR interaction tool. (GDScript, Shell, Python)  
 * [interaction\_system](https://github.com/V-Sekai/interaction_system) \- Interaction system for immersive and XR games, using canvas\_plane and lasso. (GDScript)  
-* [canvas\_plane](https://github.com/V-Sekai/canvas_plane) \- Helper class for creating 3D interactive UIs for VR in Godot. (GDScript, Fork of SaracenOne/canvas\_plane)  
+* [canvas\_plane](https://github.com/V-Sekai/canvas_plane) \- Helper class for creating 3D interactive UIs for VR in Godot. (GDScript)  
 * [TOOL\_model\_explorer](https://github.com/V-Sekai/TOOL_model_explorer) \- View models, materials & animations. Supports .vrm, .glb, .gltf. (GDScript Tool/Application) (Previously VSK Model Explorer)  
 * [XR Tunneling shader (Vignette)](https://github.com/V-Sekai/godot_xr_vignette)
 
 ## **Developer & Build Tools**
 
 * [merge](https://github.com/V-Sekai/merge) \- Scripts for combining branches to create the "Godot Groups branch" (V-Sekai's custom Godot engine flavor via gitassembly-staging). (Shell, Just. *The exact list of repositories managed by gitassembly-staging is not publicly itemized in the file's content based on available information.*)  
-* [groups-gocd-pipelines](https://github.com/V-Sekai/groups-gocd-pipelines) \- A repo for both build and export GOCD pipelines for Godot projects. (CUE)  
 * [elixir-libgodot](https://github.com/V-Sekai/elixir-libgodot) \- Elixir bindings or tools for LibGodot. (Elixir)
 
 ## **Asset Libraries & Demos**
@@ -151,7 +150,6 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [Voice Changer Guide](https://rentry.co/VoiceChangerGuide)  
 * [Sapling: A Scalable, User-Friendly Source Control System](https://github.com/facebook/sapling.git)  
 * [Provide the user with inverse control over the hyper-parameters through a brush stroke metaphor](https://github.com/eliemichel/DagAmendment)  
-* [Quad polygon re-meshing for hard surface](https://github.com/cgg-bern/quadwild-bimdf) (Duplicate of Quadwild above, consider keeping one)  
 * [Ultorg is a general-purpose database app that connects to your existing data. Work quickly across tables, queries, and relationships without manual coding or page design.](https://www.ultorg.com/) (Duplicate of ultorg above, consider keeping one)  
 * [VRM Downgrader](https://vrm-downgrader.pages.dev/)  
 * [Generate timestamp indicators for Discord chat messages](https://hammertime.cyou/)  
@@ -194,7 +192,8 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 ## **Contributing**
 
-Contributions are welcome\! Please read the [contributing guidelines](http://docs.google.com/CONTRIBUTING.md) (you'll need to create this file if it doesn't exist) or open an issue/pull request to suggest changes or additions.  
+Contributions are welcome\! 
+
 When adding a new item, please try to include:
 
 * A direct link to the repository or resource.  
