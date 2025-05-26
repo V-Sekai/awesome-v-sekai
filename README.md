@@ -58,7 +58,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 *Typically GDScript based or GDExtensions, enhancing editor or project capabilities.*
 
 * [godot-humanoid](https://github.com/V-Sekai/godot-humanoid) \- Work in progress with humanoid muscle encoding to/from quaternion for animation/networking. (GDScript)  
-* [godot-humanoid-project](https://github.com/V-Sekai/godot-humanoid-project) \- Project likely for humanoid avatar systems. (GDScript)  
+* [godot-humanoid-project](https://github.com/V-Sekai/godot-humanoid-project) \- Project for humanoid avatar systems. (GDScript)  
 * [godot-http-gltf2-binary](https://github.com/V-Sekai/godot-http-gltf2-binary) \- Godot Engine web server exporting the edited scene as a glTF2 binary. (GDScript)  
 * [godot-whisper](https://github.com/V-Sekai/godot-whisper) \- GDExtension addon for Godot Engine that enables realtime audio transcription. (Metal, C++, GDScript, C)  
 * [Godot Snappy for mesh snapping](https://github.com/jgillich/godot-snappy)  
@@ -85,7 +85,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 ## **Developer & Build Tools**
 
-* [merge](https://github.com/V-Sekai/merge) \- Scripts for combining branches to create the "Godot Groups branch" (V-Sekai's custom Godot engine flavor via gitassembly-staging). (Shell, Just. *The exact list of repositories managed by gitassembly-staging is not publicly itemized in the file's content based on available information.*)  
+* [merge](https://github.com/V-Sekai/merge) \- Scripts for combining branches to create the "Godot Groups branch" (V-Sekai's custom Godot engine flavor via gitassembly-staging). (Shell, Just)
 * [elixir-libgodot](https://github.com/V-Sekai/elixir-libgodot) \- Elixir bindings or tools for LibGodot. (Elixir)
 
 ## **Asset Libraries & Demos**
@@ -106,7 +106,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 * [V-Sekai-fire GitHub Organization](https://github.com/v-sekai-fire) \- Main page for V-Sekai Fire projects.  
 * [V-Sekai-fire/godot\_bird\_plane](https://github.com/V-Sekai-fire/godot_bird_plane) \- Godot project, likely a demo or tool. (GDScript, C++)  
-* [V-Sekai-fire/godot-vrm-motion-checker](https://github.com/V-Sekai-fire/godot-vrm-motion-checker) \- Tool for checking VRM motions in Godot. (Likely GDScript)
+* [V-Sekai-fire/godot-vrm-motion-checker](https://github.com/V-Sekai-fire/godot-vrm-motion-checker) \- Tool for checking VRM motions in Godot. (GDScript)
 
 ## **Other Tools**
 
