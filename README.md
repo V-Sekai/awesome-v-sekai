@@ -182,6 +182,10 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [SpaceMesh](https://research.nvidia.com/labs/toronto-ai/space-mesh/) \- Research project on generating 3D meshes.  
 * [together.ai Model training, fine-tuning, and inference](https://www.together.ai/) \- A platform for training, fine-tuning, and running AI models.
 
+## **Articles**
+
+* [Create Character Rigs With This Free Blender Add-on](https://80.lv/articles/create-character-rigs-with-this-free-blender-add-on)
+
 ## **Other Awesome Lists**
 
 * [awesome-godot](https://github.com/godotengine/awesome-godot) \- A curated list of awesome Godot Engine frameworks, libraries, software and resources.  
