@@ -47,8 +47,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 *Typically C++ based, extending core engine functionality, often as GDExtensions or engine modules not necessarily merged into the core V-Sekai build by default.*
 
-* [godot-cpp](https://github.com/V-Sekai/godot-cpp) \- C++ bindings for the Godot script API. (C++, Likely fork of godotengine/godot-cpp, for GDExtension development)  
-* [Running Pre-trained Machine Learning Model in Godot (IREE.gd)](https://github.com/iree-gd/iree.gd) \- (Also a version at RechieKho/IREE.gd)  
+* [Running Pre-trained Machine Learning Model in Godot (IREE.gd)](https://github.com/iree-gd/iree.gd) 
 * [In-editor scripting and sandboxing for Godot (libriscv)](https://github.com/libriscv/godot-sandbox)  
 * [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)  
 * [Hydro \- Dynamic water and buoyancy](https://github.com/godot-extended-libraries/hydro)  
