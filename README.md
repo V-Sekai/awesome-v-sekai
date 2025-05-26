@@ -4,23 +4,23 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 ## **Contents**
 
-* [Core Engine & Game Client](#bookmark=id.whx4brb07kou)  
-* [Engine Components & Core Modifications](#bookmark=id.a0wdtj2196qc)  
-* [Godot 4 Modules (C++)](#bookmark=id.76gwm6aytyrb)  
-* [Godot 4.x Addons (GDScript & GDExtensions)](#bookmark=id.sq7nkdjut0x9)  
-* [Interoperability & Importers](#bookmark=id.55sc9h5o1mne)  
-* [VR/XR Tools & Systems](#bookmark=id.ot3izxxgafb6)  
-* [Developer & Build Tools](#bookmark=id.pxa0upq26uda)  
-* [Asset Libraries & Demos](#bookmark=id.5kxi1geedvw6)  
-* [Artwork](#bookmark=id.ghcb3dryxeb4)  
-* [Affiliated Projects](#bookmark=id.f3nbtg22thud)  
-* [Other Tools](#bookmark=id.azo6gt6avgde)  
-* [Tools that bring me joy](#bookmark=id.431q8pb8lh6r)  
-* [Websites & Community](#bookmark=id.er91mcv6zn11)  
-* [Groups](#bookmark=id.nhzfqqyv1w3z)  
-* [Machine Learning experiments](#bookmark=id.kcuji8w3fng2)  
-* [Other Awesome Lists](#bookmark=id.bgue5v9iw9j5)  
-* [Contributing](#bookmark=id.95n77lt2uaq)
+* [Core Engine & Game Client](#bookmark=id.vxqcjaoda3mi)  
+* [Engine Components & Core Modifications](#bookmark=id.dij5ppjwzui6)  
+* [Godot 4 Modules (C++)](#bookmark=id.quzmdahlos6)  
+* [Godot 4.x Addons (GDScript & GDExtensions)](#bookmark=id.acjpu4wjh8i)  
+* [Interoperability & Importers](#bookmark=id.p48o6qtnqsm6)  
+* [VR/XR Tools & Systems](#bookmark=id.gkdatykqa1gt)  
+* [Developer & Build Tools](#bookmark=id.oera4xoh8k7l)  
+* [Asset Libraries & Demos](#bookmark=id.rwwmx442pnwq)  
+* [Artwork](#bookmark=id.nzlfkh2bmr6n)  
+* [Affiliated Projects](#bookmark=id.8y5w7ct4ubx5)  
+* [Other Tools](#bookmark=id.2xas5tpk50rf)  
+* [Tools that bring me joy](#bookmark=id.cxkbudj91p2j)  
+* [Websites & Community](#bookmark=id.vee5t243md83)  
+* [Groups](#bookmark=id.fxhmdvdtt2z)  
+* [Machine Learning experiments](#bookmark=id.xx64voqhro9)  
+* [Other Awesome Lists](#bookmark=id.52l0nkcrv5bx)  
+* [Contributing](#bookmark=id.7entg57ekap2)
 
 ## **Core Engine & Game Client**
 
@@ -33,7 +33,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 *This section includes modules deeply integrated into V-Sekai's custom Godot Engine build.*
 
-* [godot-goal-task-planner](https://github.com/V-Sekai/godot-goal-task-planner) \- Determines a PlannerPlan to accomplish a "todo list" from a provided state. (C++, C, Python, AI Planning) 
+* [godot-goal-task-planner](https://github.com/V-Sekai/godot-goal-task-planner) \- Determines a PlannerPlan to accomplish a "todo list" from a provided state. (C++, C, Python, AI Planning)  
 * [godot-speech](https://github.com/V-Sekai/godot-speech) \- Speech processor and compressor addon for Godot. (C++, Fork of SaracenOne/godot\_speech)  
 * [lasso](https://github.com/V-Sekai/lasso) \- A custom Godot Engine module designed to make the task of selecting objects in VR easier. (C++, C, Python)  
 * [godot\_openxr\_vendors](https://github.com/V-Sekai/godot_openxr_vendors) \- Godot 4 wrapper for OpenXR vendors loaders and extensions. (C++, fork of GodotVR/godot\_openxr\_vendors)  
@@ -47,11 +47,11 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 *Typically C++ based, extending core engine functionality, often as GDExtensions or engine modules not necessarily merged into the core V-Sekai build by default.*
 
-* [Running Pre-trained Machine Learning Model in Godot (IREE.gd)](https://github.com/iree-gd/iree.gd) 
-* [In-editor scripting and sandboxing for Godot (libriscv)](https://github.com/libriscv/godot-sandbox)  
-* [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget)  
-* [Hydro \- Dynamic water and buoyancy](https://github.com/godot-extended-libraries/hydro)  
-* [GuilhermeGSousa/godot-motion-matching](https://github.com/GuilhermeGSousa/godot-motion-matching)
+* [Running Pre-trained Machine Learning Model in Godot (IREE.gd)](https://github.com/iree-gd/iree.gd) \- Module for integrating IREE (Intermediate Representation Execution Environment) with Godot, allowing execution of pre-trained ML models.  
+* [In-editor scripting and sandboxing for Godot (libriscv)](https://github.com/libriscv/godot-sandbox) \- Provides a sandboxed RISC-V environment for in-editor scripting within Godot.  
+* [Realtime Retarget](https://github.com/TokageItLab/realtime_retarget) \- A Godot module for retargeting animations in real-time.  
+* [Hydro \- Dynamic water and buoyancy](https://github.com/godot-extended-libraries/hydro) \- A Godot module for simulating dynamic water and buoyancy effects.  
+* [GuilhermeGSousa/godot-motion-matching](https://github.com/GuilhermeGSousa/godot-motion-matching) \- A Godot module implementing motion matching animation techniques.
 
 ## **Godot 4.x Addons (GDScript & GDExtensions)**
 
@@ -61,31 +61,31 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [godot-humanoid-project](https://github.com/V-Sekai/godot-humanoid-project) \- Project for humanoid avatar systems. (GDScript)  
 * [godot-http-gltf2-binary](https://github.com/V-Sekai/godot-http-gltf2-binary) \- Godot Engine web server exporting the edited scene as a glTF2 binary. (GDScript)  
 * [godot-whisper](https://github.com/V-Sekai/godot-whisper) \- GDExtension addon for Godot Engine that enables realtime audio transcription. (Metal, C++, GDScript, C)  
-* [Godot Snappy for mesh snapping](https://github.com/jgillich/godot-snappy)  
-* [Point Cloud Multistroke Recognizer](https://github.com/V-Sekai/godot-point-cloud-multistroke-recognizer)  
-* [Godot Splerger to Split and Merge Godot Engine Scenes](https://github.com/V-Sekai/godot-splerger)  
-* [Verlet Rope Simulation](https://github.com/V-Sekai/godot-verlet-rope)  
-* [In-editor box modelling for gray boxing or prototyping 3d levels (Godot Ply).](https://github.com/jarneson/godot-ply)  
-* [AndreaCatania/godot\_tracy: provides visibility into Godot Engine performance](https://github.com/AndreaCatania/godot_tracy)  
-* [Humanizer converts MPFB2 to Godot 4](https://github.com/NitroxNova/humanizer)
+* [Godot Snappy for mesh snapping](https://github.com/jgillich/godot-snappy) \- An addon for Godot that provides mesh snapping functionalities.  
+* [Point Cloud Multistroke Recognizer](https://github.com/V-Sekai/godot-point-cloud-multistroke-recognizer) \- A Godot addon for recognizing multistroke gestures from point cloud data.  
+* [Godot Splerger to Split and Merge Godot Engine Scenes](https://github.com/V-Sekai/godot-splerger) \- An addon for splitting and merging Godot Engine scene files.  
+* [Verlet Rope Simulation](https://github.com/V-Sekai/godot-verlet-rope) \- A Godot addon for simulating verlet rope physics.  
+* [In-editor box modelling for gray boxing or prototyping 3d levels (Godot Ply).](https://github.com/jarneson/godot-ply) \- An addon that enables in-editor box modeling capabilities.  
+* [AndreaCatania/godot\_tracy: provides visibility into Godot Engine performance](https://github.com/AndreaCatania/godot_tracy) \- A Godot integration for the Tracy profiler, offering detailed performance insights.  
+* [Humanizer converts MPFB2 to Godot 4](https://github.com/NitroxNova/humanizer) \- An addon to convert MakeHuman Plugin for Blender (MPFB2) characters to be Godot 4 compatible.
 
 ## **Interoperability & Importers**
 
 * [unidot\_importer](https://github.com/V-Sekai/unidot_importer) \- Import .unitypackage and other assets designed for Unity Engine as a GDScript addon for vanilla Godot 4.x.  
 * [godot-vrm](https://github.com/V-Sekai/godot-vrm) \- Importer/Exporter for VRM avatars and MToon shader. (GDScript Addon, Godot Asset Library)  
-  * [VRM for Portable Avatars Overview](https://github.com/fire/awesome-godot-procedural-generation/files/10690951/VRM.Overview.pdf)  
+  * [VRM for Portable Avatars Overview](https://github.com/fire/awesome-godot-procedural-generation/files/10690951/VRM.Overview.pdf) \- A document providing an overview of the VRM format for portable avatars.
 
 ## **VR/XR Tools & Systems**
 
 * [xr-grid](https://github.com/V-Sekai/xr-grid) \- A VR interaction tool. (GDScript, Shell, Python)  
 * [interaction\_system](https://github.com/V-Sekai/interaction_system) \- Interaction system for immersive and XR games, using canvas\_plane and lasso. (GDScript)  
 * [canvas\_plane](https://github.com/V-Sekai/canvas_plane) \- Helper class for creating 3D interactive UIs for VR in Godot. (GDScript)  
-* [TOOL\_model\_explorer](https://github.com/V-Sekai/TOOL_model_explorer) \- View models, materials & animations. Supports .vrm, .glb, .gltf. (GDScript Tool/Application) (Previously VSK Model Explorer)  
-* [XR Tunneling shader (Vignette)](https://github.com/V-Sekai/godot_xr_vignette)
+* [TOOL\_model\_explorer](https://github.com/V-Sekai/TOOL_model_explorer) \- View models, materials & animations. Supports .vrm, .glb, .gltf. (GDScript Tool/Application)  
+* [XR Tunneling shader (Vignette)](https://github.com/V-Sekai/godot_xr_vignette) \- A shader for Godot that implements XR tunneling (vignette) to reduce motion sickness.
 
 ## **Developer & Build Tools**
 
-* [merge](https://github.com/V-Sekai/merge) \- Scripts for combining branches to create the "Godot Groups branch" (V-Sekai's custom Godot engine flavor via gitassembly-staging). (Shell, Just)
+* [merge](https://github.com/V-Sekai/merge) \- Scripts for combining branches to create the "Godot Groups branch" (V-Sekai's custom Godot engine flavor via gitassembly-staging). (Shell, Just)  
 * [elixir-libgodot](https://github.com/V-Sekai/elixir-libgodot) \- Elixir bindings or tools for LibGodot. (Elixir)
 
 ## **Asset Libraries & Demos**
@@ -96,7 +96,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 ## **Artwork**
 
-* [Blender Art Blue Tin Fox Models](https://github.com/V-Sekai/blender-art-blue-tin-fox-models)
+* [Blender Art Blue Tin Fox Models](https://github.com/V-Sekai/blender-art-blue-tin-fox-models) \- A repository of Blender art assets, specifically Blue Tin Fox models.
 
 ## **Affiliated Projects**
 
@@ -110,89 +110,87 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 ## **Other Tools**
 
-* [Magika ONNX Minimal File Type Prediction](https://github.com/trevorhobenshield/magika_onnx)  
-* [Lottie](https://lottie.github.io/)  
-* [SQLpage](https://github.com/lovasoa/SQLpage)  
-* [V-Sekai Blender Game Tools](https://github.com/V-Sekai/vsekai-blender-game-tools)  
-* [FBX2glTF FBX to GLTF Converter](https://github.com/godotengine/FBX2glTF)  
-* [OpenVR driver for using VR controllers without an HMD](https://github.com/V-Sekai/V-Sekai-faceless)  
-* [Differentiable Cloth Simulation](https://github.com/fire/differentiable_cloth)  
-* [GLTF Extensions](https://github.com/omigroup/gltf-extensions)  
-* [XMP StableDiffusion DataMapper](https://github.com/Zirnworks/XMP-StableDiffusion-DataMapper)  
-* [Proton Graph](https://github.com/protongraph/protongraph)  
-* [Nomad Sculpt](https://nomadsculpt.com/)  
-* [Quadwild for quad-dominant re-meshing (with Bi-MDF)](https://github.com/cgg-bern/quadwild-bimdf)  
-* [SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline)  
-* [Tool to tokenize GPT input](https://tiktokenizer.vercel.app/)  
-* [Lateral Thinking with Weathered Technology](https://en.wikipedia.org/wiki/Gunpei_Yokoi)  
-* [Generate Blender Rigify armatures for VRM models.](https://github.com/nanoskript/vrm-rigify)  
-* [Three VRM Inspector](https://0b5vr.com/three-vrm-inspector/)  
-* [ultorg: A User Interface for Relational Data](https://www.ultorg.com/)  
-* [Worldtime Buddy](https://www.worldtimebuddy.com/)  
-* [Booth Avatars](https://boothplorer.com/avatars)  
-* [Lazygit](https://github.com/jesseduffield/lazygit)  
-* [Approximate Convex Decomposition for 3D Meshes](https://github.com/SarahWeiii/CoACD)  
-* [Macroons: minimally-stateful bearer token, a blob signed with HMAC](https://fly.io/blog/macaroons-escalated-quickly/)
+* [Magika ONNX Minimal File Type Prediction](https://github.com/trevorhobenshield/magika_onnx) \- A minimal implementation for file type prediction using Magika with ONNX.  
+* [Lottie](https://lottie.github.io/) \- A mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile\!  
+* [SQLpage](https://github.com/lovasoa/SQLpage) \- SQL-only web server. Builds dynamic websites entirely in SQL.  
+* [V-Sekai Blender Game Tools](https://github.com/V-Sekai/vsekai-blender-game-tools) \- Blender tools tailored for game development within the V-Sekai ecosystem.  
+* [FBX2glTF FBX to GLTF Converter](https://github.com/godotengine/FBX2glTF) \- A command-line tool for converting FBX files to glTF 2.0.  
+* [OpenVR driver for using VR controllers without an HMD](https://github.com/V-Sekai/V-Sekai-faceless) \- An OpenVR driver allowing the use of VR controllers without a head-mounted display.  
+* [Differentiable Cloth Simulation](https://github.com/fire/differentiable_cloth) \- A project exploring differentiable cloth simulation.  
+* [GLTF Extensions](https://github.com/omigroup/gltf-extensions) \- A collection of glTF extensions developed by the OMIgroup.  
+* [XMP StableDiffusion DataMapper](https://github.com/Zirnworks/XMP-StableDiffusion-DataMapper) \- A tool for mapping XMP metadata with Stable Diffusion.  
+* [Proton Graph](https://github.com/protongraph/protongraph) \- A node-based visual scripting system.  
+* [Nomad Sculpt](https://nomadsculpt.com/) \- A sculpting application for mobile devices.  
+* [Quadwild for quad-dominant re-meshing (with Bi-MDF)](https://github.com/cgg-bern/quadwild-bimdf) \- A tool for quad-dominant remeshing of 3D models.  
+* [SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) \- An online tool related to system animation.  
+* [Tool to tokenize GPT input](https://tiktokenizer.vercel.app/) \- A web tool for visualizing how text is tokenized by GPT models.  
+* [Lateral Thinking with Weathered Technology](https://en.wikipedia.org/wiki/Gunpei_Yokoi) \- An article discussing Gunpei Yokoi's design philosophy.  
+* [Generate Blender Rigify armatures for VRM models.](https://github.com/nanoskript/vrm-rigify) \- A tool to generate Blender Rigify armatures for VRM avatar models.  
+* [Three VRM Inspector](https://0b5vr.com/three-vrm-inspector/) \- A web-based inspector for VRM models using three.js.  
+* [Worldtime Buddy](https://www.worldtimebuddy.com/) \- A world clock, time zone converter, and online meeting scheduler.  
+* [Booth Avatars](https://boothplorer.com/avatars) \- A site for exploring avatars available on Booth.pm.  
+* [Lazygit](https://github.com/jesseduffield/lazygit) \- A simple terminal UI for git commands.  
+* [Approximate Convex Decomposition for 3D Meshes](https://github.com/SarahWeiii/CoACD) \- A tool for performing approximate convex decomposition of 3D meshes.  
+* [Macroons: minimally-stateful bearer token, a blob signed with HMAC](https://fly.io/blog/macaroons-escalated-quickly/) \- A blog post explaining Macaroons for authentication.
 
 ## **Tools that bring me joy**
 
-* [Aurora appstore usable on the Meta Quest](https://auroraoss.com/)  
-* [World Clock](https://www.timeanddate.com/worldclock/)  
-* [Elk: Mastadon client](https://elk.zone)  
-* [Libhunt: Shows trending GitHub repositories based on social media links](https://www.libhunt.com)  
-* [Threadreaderapp: Provides pdf summaries of Twitter threads](https://threadreaderapp.com/)  
-* [Rhino3d: CAD modeller with a visual procedural graph](https://www.rhino3d.com/)  
-* [When2meet helps you find the best time for a group to get together](https://www.when2meet.com/)  
-* [Hack for quick note-taking](https://hackmd.io/)  
-* [Image comparison](https://imgsli.com)  
-* [Code Name Generator: Colors, Metal, Animals](https://www.codenamegenerator.com/)  
-* [Voice Changer Guide](https://rentry.co/VoiceChangerGuide)  
-* [Sapling: A Scalable, User-Friendly Source Control System](https://github.com/facebook/sapling.git)  
-* [Provide the user with inverse control over the hyper-parameters through a brush stroke metaphor](https://github.com/eliemichel/DagAmendment)  
-* [Ultorg is a general-purpose database app that connects to your existing data. Work quickly across tables, queries, and relationships without manual coding or page design.](https://www.ultorg.com/) (Duplicate of ultorg above, consider keeping one)  
-* [VRM Downgrader](https://vrm-downgrader.pages.dev/)  
-* [Generate timestamp indicators for Discord chat messages](https://hammertime.cyou/)  
-* [Discord timestamps](https://r.3v.fi/discord-timestamps/)
+* [Aurora appstore usable on the Meta Quest](https://auroraoss.com/) \- An alternative app store for Android, usable on devices like Meta Quest.  
+* [World Clock](https://www.timeanddate.com/worldclock/) \- A tool for checking current times across the world.  
+* [Elk: Mastadon client](https://elk.zone) \- A web-based client for the Mastodon social network.  
+* [Libhunt: Shows trending GitHub repositories based on social media links](https://www.libhunt.com) \- A website for discovering popular software libraries and projects.  
+* [Threadreaderapp: Provides pdf summaries of Twitter threads](https://threadreaderapp.com/) \- A service to unroll Twitter threads into readable articles.  
+* [Rhino3d: CAD modeller with a visual procedural graph](https://www.rhino3d.com/) \- A 3D computer graphics and computer-aided design (CAD) application software.  
+* [When2meet helps you find the best time for a group to get together](https://www.when2meet.com/) \- A simple tool for finding the best time for a group to meet.  
+* [Hack for quick note-taking](https://hackmd.io/) \- A real-time, collaborative Markdown editor.  
+* [Image comparison](https://imgsli.com) \- An online tool for comparing two images with a slider.  
+* [Code Name Generator: Colors, Metal, Animals](https://www.codenamegenerator.com/) \- A tool for generating code names.  
+* [Voice Changer Guide](https://rentry.co/VoiceChangerGuide) \- A guide for voice changing software and techniques.  
+* [Sapling: A Scalable, User-Friendly Source Control System](https://github.com/facebook/sapling.git) \- A source control system developed by Facebook.  
+* [Provide the user with inverse control over the hyper-parameters through a brush stroke metaphor](https://github.com/eliemichel/DagAmendment) \- A project exploring intuitive control over complex parameters.  
+* [Ultorg is a general-purpose database app that connects to your existing data. Work quickly across tables, queries, and relationships without manual coding or page design.](https://www.ultorg.com/)  
+* [VRM Downgrader](https://vrm-downgrader.pages.dev/) \- A tool to downgrade VRM model versions.  
+* [Generate timestamp indicators for Discord chat messages](https://hammertime.cyou/) \- A tool to create Discord-compatible timestamp indicators.  
+* [Discord timestamps](https://r.3v.fi/discord-timestamps/) \- Another tool for generating Discord timestamps.
 
 ## **Websites & Community**
 
 * [V-Sekai Website](https://v-sekai.org/) \- Official website.  
 * [V-Sekai Discord](https://discord.gg/H3s3PD49XC) \- Main community chat.  
 * [V-Sekai GitHub Organization](https://github.com/V-Sekai) \- Primary development hub.  
-* [Coding for a Finite World](https://yoric.github.io/post/coding-for-a-finite-world/)  
-* [How to atlas everything in your world](https://wiki.vrchat.com/wiki/How_to_Atlas_everything_in_your_World)  
-* [V-Sekai Manuals Website](https://github.com/V-Sekai/manuals)  
-* [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/)  
-* [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/)  
-* [Godot Engine PRs by File](https://godotengine.github.io/godot-prs-by-file/)  
-* [Getty OpenContent CC0](https://www.getty.edu/art/collection/search?open_content=true)  
-* [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich)  
-* [A third-party item and avatar catalogue, primarily for VRChat, with items from BOOTH.pm and more](https://boothplorer.com/)  
-* [BOOTH: Global Marketplace for Creative Endeavors](https://booth.pm/)
+* [Coding for a Finite World](https://yoric.github.io/post/coding-for-a-finite-world/) \- A blog post discussing sustainable software development.  
+* [How to atlas everything in your world](https://wiki.vrchat.com/wiki/How_to_Atlas_everything_in_your_World) \- A VRChat wiki page explaining texture atlasing.  
+* [V-Sekai Manuals Website](https://github.com/V-Sekai/manuals) \- Repository for V-Sekai's documentation and manuals.  
+* [Godot GLTF 2.0 Scene Exporter](https://godotengine.org/article/introducing-the-godot-gltf-2-0-scene-exporter/) \- Godot Engine article introducing the glTF 2.0 scene exporter.  
+* [Animation Retargeting in Godot 4.0](https://godotengine.org/article/animation-retargeting-in-godot-4-0/) \- Godot Engine article on animation retargeting features in Godot 4.0.  
+* [Godot Engine PRs by File](https://godotengine.github.io/godot-prs-by-file/) \- A tool to view Godot Engine pull requests sorted by file.  
+* [Getty OpenContent CC0](https://www.getty.edu/art/collection/search?open_content=true) \- Getty Museum's open content image collection.  
+* [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich) \- A website or project related to shader-based motion.  
+* [A third-party item and avatar catalogue, primarily for VRChat, with items from BOOTH.pm and more](https://boothplorer.com/) \- A catalog for VRChat items and avatars.  
+* [BOOTH: Global Marketplace for Creative Endeavors](https://booth.pm/) \- An online marketplace for independent creators.
 
 ## **Groups**
 
-* [Godot Engine](https://godotengine.org/teams)  
-* [Open Metaverse Interoperability Group](https://omigroup.org)  
-* [Khronos](https://www.khronos.org/)  
-* [Polypixel: for low polygon art](https://github.com/recatek/polypixel-wiki/wiki)
+* [Godot Engine](https://godotengine.org/teams) \- Official Godot Engine teams page.  
+* [Open Metaverse Interoperability Group](https://omigroup.org) \- A group focused on interoperability standards for the metaverse.  
+* [Khronos](https://www.khronos.org/) \- An open consortium creating interoperability standards for 3D graphics, virtual reality, augmented reality, parallel programming, vision acceleration and machine learning.  
+* [Polypixel: for low polygon art](https://github.com/recatek/polypixel-wiki/wiki) \- A community or resource for low-polygon art.
 
 ## **Machine Learning experiments**
 
-* [Microsoft PHI-3](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3)  
-* [MeshTransformer](https://github.com/lucidrains/meshgpt-pytorch/)  
-* [SpaceMesh](https://research.nvidia.com/labs/toronto-ai/space-mesh/)  
-* [together.ai Model training, fine-tuning, and inference](https://www.together.ai/)
+* [Microsoft PHI-3](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3) \- Collection of PHI-3 models by Microsoft on Hugging Face.  
+* [MeshTransformer](https://github.com/lucidrains/meshgpt-pytorch/) \- PyTorch implementation of MeshGPT, a transformer for generating and manipulating 3D meshes.  
+* [SpaceMesh](https://research.nvidia.com/labs/toronto-ai/space-mesh/) \- Research project on generating 3D meshes.  
+* [together.ai Model training, fine-tuning, and inference](https://www.together.ai/) \- A platform for training, fine-tuning, and running AI models.
 
 ## **Other Awesome Lists**
 
 * [awesome-godot](https://github.com/godotengine/awesome-godot) \- A curated list of awesome Godot Engine frameworks, libraries, software and resources.  
-* [Awesome Godot Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific)
+* [Awesome Godot Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific) \- A curated list of Godot Engine projects and resources for scientific purposes.
 
 ## **Contributing**
 
-Contributions are welcome\! 
-
+Contributions are welcome\!  
 When adding a new item, please try to include:
 
 * A direct link to the repository or resource.  
