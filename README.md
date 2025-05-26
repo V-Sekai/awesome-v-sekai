@@ -105,7 +105,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 *(Artwork, Tools & Experiments from the V-Sekai-fire group)*
 
 * [V-Sekai-fire GitHub Organization](https://github.com/v-sekai-fire) \- Main page for V-Sekai Fire projects.  
-* [V-Sekai-fire/godot\_bird\_plane](https://github.com/V-Sekai-fire/godot_bird_plane) \- Godot project, likely a demo or tool. (GDScript, C++)  
+* [V-Sekai-fire/godot\_bird\_plane](https://github.com/V-Sekai-fire/godot_bird_plane) \- Godot project, a demo. (GDScript, C++)  
 * [V-Sekai-fire/godot-vrm-motion-checker](https://github.com/V-Sekai-fire/godot-vrm-motion-checker) \- Tool for checking VRM motions in Godot. (GDScript)
 
 ## **Other Tools**
