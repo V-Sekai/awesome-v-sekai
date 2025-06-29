@@ -150,7 +150,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [Provide the user with inverse control over the hyper-parameters through a brush stroke metaphor](https://github.com/eliemichel/DagAmendment) \- A project exploring intuitive control over complex parameters.  
 * [Ultorg is a general-purpose database app that connects to your existing data. Work quickly across tables, queries, and relationships without manual coding or page design.](https://www.ultorg.com/)  
 * [VRM Downgrader](https://vrm-downgrader.pages.dev/) \- A tool to downgrade VRM model versions.  
-* [Discord timestamps](https://r.3v.fi/discord-timestamps/) \- Another tool for generating Discord timestamps.
+* [HammerTime](https://hammertime.cyou) \- Generate timestamp indicators for Discord chat messages.
 
 ## **Websites & Community**
 
