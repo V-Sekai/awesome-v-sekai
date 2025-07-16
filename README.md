@@ -152,6 +152,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [Ultorg is a general-purpose database app that connects to your existing data. Work quickly across tables, queries, and relationships without manual coding or page design.](https://www.ultorg.com/)  
 * [VRM Downgrader](https://vrm-downgrader.pages.dev/) \- A tool to downgrade VRM model versions.  
 * [HammerTime](https://hammertime.cyou) \- Generate timestamp indicators for Discord chat messages.
+* [OPNsense](https://opnsense.org/) - OPNsense® is an open source, feature rich firewall and routing platform, offering cutting-edge network protection.
 
 ## **Websites & Community**
 
