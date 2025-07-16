@@ -153,6 +153,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [VRM Downgrader](https://vrm-downgrader.pages.dev/) \- A tool to downgrade VRM model versions.  
 * [HammerTime](https://hammertime.cyou) \- Generate timestamp indicators for Discord chat messages.
 * [OPNsense](https://opnsense.org/) - OPNsense® is an open source, feature rich firewall and routing platform, offering cutting-edge network protection.
+* [Latency Numbers](https://samwho.dev/numbers) - Latency Numbers Every Programmer Should Know
 
 ## **Websites & Community**
 
