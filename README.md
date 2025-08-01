@@ -68,6 +68,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [In-editor box modelling for gray boxing or prototyping 3d levels (Godot Ply).](https://github.com/jarneson/godot-ply) \- An addon that enables in-editor box modeling capabilities.  
 * [AndreaCatania/godot\_tracy: provides visibility into Godot Engine performance](https://github.com/AndreaCatania/godot_tracy) \- A Godot integration for the Tracy profiler, offering detailed performance insights.  
 * [Humanizer converts MPFB2 to Godot 4](https://github.com/NitroxNova/humanizer) \- An addon to convert MakeHuman Plugin for Blender (MPFB2) characters to be Godot 4 compatible.
+* [Skeleton Merge Sample](https://github.com/V-Sekai-fire/SK_skeleton_merge_01) \- Allows merging two or more skeletons together. Like a base avatar and a clothing costume with a skeleton rigged.
 
 ## **Interoperability & Importers**
 
