@@ -134,6 +134,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [Approximate Convex Decomposition for 3D Meshes](https://github.com/SarahWeiii/CoACD) \- A tool for performing approximate convex decomposition of 3D meshes.  
 * [Macroons: minimally-stateful bearer token, a blob signed with HMAC](https://fly.io/blog/macaroons-escalated-quickly/) \- A blog post explaining Macaroons for authentication.
 * [SAMMI is a fully customizable streaming assistant](https://github.com/SAMMISolutions/SAMMI-Official) \- SAMMI is a fully customizable streaming assistant that lets your Twitch and YouTube Live audience control and interact with your stream. It is fully compatible with OBS Websocket, which can remotely control your OBS Studio.
+* [Manage applications that are loaded automatically when Windows starts up.](https://www.hibitsoft.ir/StartupManager.html)
 
 ## **Tools that bring me joy**
 
