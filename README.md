@@ -157,6 +157,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [OPNsense](https://opnsense.org/) - OPNsense® is an open source, feature rich firewall and routing platform, offering cutting-edge network protection.
 * [Latency Numbers](https://samwho.dev/numbers) - Latency Numbers Every Programmer Should Know
 * [YamaPlayer](https://github.com/koorimizuw/YamaPlayer) - Modern video player for VRChat. 
+* [VRM-Previewer](https://github.com/emptyngton/VRM-Previewer)
 
 ## **Websites & Community**
 
