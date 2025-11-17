@@ -174,6 +174,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [Shader Motion Website](https://github.com/V-Sekai/shader-motion-navy-lead-ostrich) \- A website or project related to shader-based motion.  
 * [A third-party item and avatar catalogue, primarily for VRChat, with items from BOOTH.pm and more](https://boothplorer.com/) \- A catalog for VRChat items and avatars.  
 * [BOOTH: Global Marketplace for Creative Endeavors](https://booth.pm/) \- An online marketplace for independent creators.
+* [Software Project Glossary](https://university.obvious.in/product-design/mobile-engineering/agile-development-terminology)
 
 ## **Groups**
 
