@@ -195,7 +195,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 
 ## **Other Awesome Lists**
 
-* [awesome-godot](https://github.com/godotengine/awesome-godot) \- A curated list of awesome Godot Engine frameworks, libraries, software and resources.  
+* [Awesome Godot](https://github.com/godotengine/awesome-godot) \- A curated list of awesome Godot Engine frameworks, libraries, software and resources.  
 * [Awesome Godot Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific) \- A curated list of Godot Engine projects and resources for scientific purposes.
 
 ## **Contributing**
