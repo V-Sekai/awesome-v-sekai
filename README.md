@@ -174,6 +174,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [A third-party item and avatar catalogue, primarily for VRChat, with items from BOOTH.pm and more](https://boothplorer.com/) \- A catalog for VRChat items and avatars.  
 * [BOOTH: Global Marketplace for Creative Endeavors](https://booth.pm/) \- An online marketplace for independent creators.
 * [Software Project Glossary](https://university.obvious.in/product-design/mobile-engineering/agile-development-terminology)
+* [20 Games Challenge](https://20_games_challenge.gitlab.io/games/)
 
 ## **Groups**
 
