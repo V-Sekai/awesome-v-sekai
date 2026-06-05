@@ -193,6 +193,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 ## **Articles**
 
 * [Create Character Rigs With This Free Blender Add-on](https://80.lv/articles/create-character-rigs-with-this-free-blender-add-on)
+* [Calvr](https://calver.org/)
 
 ## **Other Awesome Lists**
 
