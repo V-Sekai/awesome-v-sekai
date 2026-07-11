@@ -195,6 +195,12 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [Create Character Rigs With This Free Blender Add-on](https://80.lv/articles/create-character-rigs-with-this-free-blender-add-on)
 * [Calvr](https://calver.org/)
 
+## **V-Sekai Github Organizations**
+
+* https://github.com/V-Sekai
+* https://github.com/V-Sekai-fire
+* https://github.com/V-Sekai-multiplayer-fabric
+
 ## **Other Awesome Lists**
 
 * [Awesome Godot](https://github.com/godotengine/awesome-godot) \- A curated list of awesome Godot Engine frameworks, libraries, software and resources.  
