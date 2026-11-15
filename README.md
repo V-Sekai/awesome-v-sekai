@@ -175,6 +175,7 @@ A curated list of awesome V-Sekai projects, tools, and resources, with a focus o
 * [BOOTH: Global Marketplace for Creative Endeavors](https://booth.pm/) \- An online marketplace for independent creators.
 * [Software Project Glossary](https://university.obvious.in/product-design/mobile-engineering/agile-development-terminology)
 * [20 Games Challenge](https://20_games_challenge.gitlab.io/games/)
+* [Stream your desktop to VRSNS](https://stream.vard.cc/)
 
 ## **Groups**
 
